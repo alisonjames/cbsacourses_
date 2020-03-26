@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "59942554c9e5207835f6b62a",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "5 minutes",
+    "linkText": "Débuter",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Avant de commencer",
+    "title": "Avant de commencer",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "block"
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b62b",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "5 minutes",
+    "linkText": "Débuter",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Module 1 Revêtir et retirer l’EPI aux fins d’examens dans l’AEDS",
+    "title": "Module 1 Revêtir et retirer l’EPI aux fins d’examens dans l’AEDS",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "block"
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b62c",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": false,
+    "_isOptional": true,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "asset",
+    "title": "asset",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": false,
+      "_level": "page"
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b62d",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [
+      "59942554c9e5207835f6b62b"
+    ],
+    "duration": "5 mintues",
+    "linkText": "Débuter",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Quiz final",
+    "title": "Quiz final",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "_id": "5984661f24cd560c2031575b",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "5 minutes",
+    "linkText": "Start",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Before You Begin",
+    "title": "Before You Begin",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "block"
+    }
+  },
+  {
+    "_id": "59847316dfff9d880ff36ff7",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "5 minutes",
+    "linkText": "Start",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Module 1 Donning and Doffing of PPE for Conducting Exams in a DSEA ",
+    "title": "Module 1 Donning and Doffing of PPE for Conducting Exams in a DSEA ",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "block"
+    }
+  },
+  {
+    "_id": "59847817dfff9d880ff37000",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": false,
+    "_isOptional": true,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "asset",
+    "title": "asset",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": false,
+      "_level": "page"
+    }
+  },
+  {
+    "_id": "59899330834318c02eefff19",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [
+      "59847316dfff9d880ff36ff7"
+    ],
+    "duration": "5 mintues",
+    "linkText": "Start",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Final Quiz",
+    "title": "Final Quiz",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  }
+]

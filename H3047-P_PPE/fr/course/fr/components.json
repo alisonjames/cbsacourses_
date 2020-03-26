@@ -1,0 +1,2111 @@
+[
+  {
+    "_id": "59942554c9e5207835f6b64d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b634",
+    "body": "<script>if(document.querySelector(\".accordion-widget.component-widget\")){document.querySelector(\".accordion-widget.component-widget\").firstChild.nextElementSibling.firstChild.nextElementSibling.click()};</script>",
+    "displayTitle": "",
+    "title": "Avant de commencer",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Bienvenue",
+        "body": "<p>Afin de r&eacute;duire les risques d&rsquo;exposition au fentanyl, aux analogues du fentanyl, &agrave; leurs pr&eacute;curseurs et &agrave; d&rsquo;autres substances hautement toxiques (SHT), il est extr&ecirc;mement important de porter en tout temps l&rsquo;&eacute;quipement de protection individuelle (EPI) requis lors de l&rsquo;examen des marchandises dans l&rsquo;aire d&rsquo;examen d&eacute;sign&eacute;e s&eacute;curitaire (AEDS).</p><p>Ce cours montre &agrave; tous les employ&eacute;s de premi&egrave;re ligne de l&rsquo;ASFC comment rev&ecirc;tir et retirer leur EPI de mani&egrave;re s&eacute;curitaire afin de prot&eacute;ger leur sant&eacute; et leur s&eacute;curit&eacute; ainsi que celles de leurs coll&egrave;gues et d&rsquo;&eacute;viter toute contamination.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": "display-acc"
+      },
+      {
+        "title": "Votre objectif d’apprentissage",
+        "body": "<p>Lorsque vous aurez fini ce cours, vous pourrez rappeler les &eacute;tapes &agrave; suivre pour rev&ecirc;tir et retirer de mani&egrave;re s&eacute;curitaire l&rsquo;EPI qui doit &ecirc;tre port&eacute; dans l&rsquo;AEDS.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Durée",
+        "body": "<p>Le cours durera environ 15 minutes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_id": "59942554c9e5207835f6b64e",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b635",
+    "body": "<p style=\"text-align:center\"><a class=\"button\" href=\"#59942554c9e5207835f6b62b\" style=\"text-decoration:none;color:white;\">Passer au prochain module </a></p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59942554c9e5207835f6b64f",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b637",
+    "body": "",
+    "displayTitle": "Gloves",
+    "title": "Gloves",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/5bfd69ad7d8cb4c947b43eab6d0205bcfdf24f05.png",
+      "small": "course/fr/assets/5bfd69ad7d8cb4c947b43eab6d0205bcfdf24f05.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b650",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b637",
+    "body": "",
+    "displayTitle": "Mask",
+    "title": "Mask",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/46669127eb1e4b3ac806298612f1c55897ed25e8.png",
+      "small": "course/fr/assets/46669127eb1e4b3ac806298612f1c55897ed25e8.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b651",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b638",
+    "body": "",
+    "displayTitle": "Mask",
+    "title": "Mask",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/7d88c8a8ab40e4fe100afbd691962aaf1146b5a4.png",
+      "small": "course/fr/assets/7d88c8a8ab40e4fe100afbd691962aaf1146b5a4.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b652",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b638",
+    "body": "",
+    "displayTitle": "Safety glasses",
+    "title": "Safety glasses",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/d67ec4a3e0b94e4f02b7a09b8fcfba89157a682f.png",
+      "small": "course/fr/assets/d67ec4a3e0b94e4f02b7a09b8fcfba89157a682f.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b653",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b639",
+    "body": "",
+    "displayTitle": "Tyvek",
+    "title": "Tyvek",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/7dd9ea7d10d24ed751dfd75fa6c021581ddeed91.png",
+      "small": "course/fr/assets/7dd9ea7d10d24ed751dfd75fa6c021581ddeed91.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b654",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b639",
+    "body": "",
+    "displayTitle": "Lab coat",
+    "title": "Lab coat",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/6f6792836c937e2362aceea8c8a565bd925d2c47.png",
+      "small": "course/fr/assets/6f6792836c937e2362aceea8c8a565bd925d2c47.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b655",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b636",
+    "body": "<p>Que vous soyez l&rsquo;agent examinateur ou l&rsquo;agent d&rsquo;appui, vous devez toujours porter l&rsquo;EPI lors des examens dans l&rsquo;AEDS pour limiter l&rsquo;exposition aux SHT. Voici la liste minimale de l&rsquo;EPI requis qui doit &ecirc;tre &agrave; votre disposition :</p><div class=\"multiple-cols\"><div><p>Des gants en nitrile de taille r&eacute;guli&egrave;re (c.-&agrave;-d. 9&frac12; po &ndash; 9&frac34; po) et de longs gants (c.-&agrave;-d. 12 po)</p><img alt=\"\" src=\"course/fr/assets/5bfd69ad7d8cb4c947b43eab6d0205bcfdf24f05.png\" /></div><div><p>Un appareil de protection respiratoire individuel r&eacute;utilisable de type P-100 avec des cartouches de rechange ou un appareil respiratoire jetable N100 (des masques jetables N-100)</p><img alt=\"\" src=\"course/fr/assets/46669127eb1e4b3ac806298612f1c55897ed25e8.png\" /><img alt=\"\" src=\"course/fr/assets/7d88c8a8ab40e4fe100afbd691962aaf1146b5a4.png\" /></div><div><p>Des lunettes de protection</p><img alt=\"\" src=\"course/fr/assets/d67ec4a3e0b94e4f02b7a09b8fcfba89157a682f.png\" /></div><div><p>Des combinaisons jetables de type Tyvek avec capuchon int&eacute;gr&eacute; ou des sarraus de laboratoire</p><img alt=\"\" src=\"course/fr/assets/7dd9ea7d10d24ed751dfd75fa6c021581ddeed91.png\" /><img alt=\"\" src=\"course/fr/assets/6f6792836c937e2362aceea8c8a565bd925d2c47.png\" /></div></div><div class=\"multiple-cols transparent-cols warning\"><div class=\"important-note\"><img alt=\"Note importante\" src=\"course/fr/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png\" /></div><div><p>Assurez d&rsquo;avoir fait &agrave; un essai d&rsquo;ajustement conform&eacute;ment au <a href=\"http://atlas/hrb-dgrh/res/ohs-sst/documents/rpp_ppr_fra.pdf\" target=\"_blank\"><span style=\"color:#8b1d30;\">programme de protection respiratoire</span></a>. Des particules dangereuses pr&eacute;sentes dans l&rsquo;air peuvent s&rsquo;infiltrer dans l&rsquo;appareil respiratoire entre la peau et le masque et &ecirc;tre inhal&eacute;es si le respirateur ne convient pas &agrave; votre visage ou si vous n&rsquo;avez pas correctement ajust&eacute; le masque.</p></div></div>",
+    "displayTitle": "",
+    "title": "L’EPI minimal pour l’AEDS",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59942554c9e5207835f6b656",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b63a",
+    "body": "<p>Avant d&rsquo;effectuer des examens intrusifs, l&rsquo;agent examinateur et l&rsquo;agent d&rsquo;appui doivent rev&ecirc;tir l&rsquo;EPI. Les <a href=\"http://atlas/pb-dgp/res/gmpp/sop-pne/hts-sht/attach/hts_safe_exam_secure_sht_fra.pdf\" target=\"blank\"><span style=\"color:#8b1d30;\"> PNE relatives au traitement des SHT</span></a> soup&ccedil;onn&eacute;es sp&eacute;cifient la proc&eacute;dure permettant de le faire de mani&egrave;re s&eacute;curitaire. Il est important de suivre chaque &eacute;tape de la proc&eacute;dure dans l&rsquo;ordre d&eacute;crit afin de minimiser le potentiel risque d&rsquo;exposition &agrave; des SHT soup&ccedil;onn&eacute;es.</p><p>Regardez la vid&eacute;o ci-dessous pour voir chaque &eacute;tape et m&eacute;moriser leur s&eacute;quence&nbsp;:</p><ol><li>Enfiler&nbsp;les gants en nitrile de taille r&eacute;guli&egrave;re</li><li>Enfiler&nbsp;le sarrau ou la combinaison</li><li>Enfiler&nbsp;les longs gants en nitrile par-dessus les manches du sarrau/de la combinaison</li><li>Rev&ecirc;tir&nbsp;et v&eacute;rifier&nbsp; le respirateur conform&eacute;ment aux instructions du fabricant et du programme de protection respiratoire</li><li>Placer les lunettes de protection</li></ol></div></div>",
+    "displayTitle": "",
+    "title": "Revêtir l’ÉPI de manière sécuritaire",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/fr/assets/abfd1c77ed6f1b47ec18fba0baf45cbd2fc1fc43.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "fr",
+    "_showVolumeControl": true,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "Transcription",
+      "inlineTranscriptCloseButton": "Cacher la transcription",
+      "inlineTranscriptBody": "<p><strong>Enfilage de l&rsquo;&eacute;quipement de protection individuelle</strong></p><p>Les agents qui proc&egrave;dent &agrave; l&rsquo;examen de colis qu&rsquo;ils soup&ccedil;onnent de contenir des substances hautement toxiques doivent le faire dans une zone d&rsquo;examen s&eacute;curitaire pr&eacute;vue &agrave; cette fin. Les agents doivent &eacute;galement porter l&rsquo;&eacute;quipement de protection individuelle, dont un respirateur, un sarrau ou une combinaison Tyvek jetable, des gants et des lunettes de s&eacute;curit&eacute;. Cette vid&eacute;o vous montrera comment enfiler et retirer l&rsquo;&eacute;quipement de protection individuelle qui doit &ecirc;tre port&eacute; dans la zone d&rsquo;examen s&eacute;curitaire pr&eacute;vue &agrave; cette fin.</p><p><strong>Enfilage des gants et du sarreau ou de la combinaison</strong></p><p>Durant l&rsquo;examen, les agents porteront un sarrau jetable ou une combinaison Tyvek jetable.&nbsp;</p><p>Enfilez en premier lieu une paire de gants en nitrile, puis le sarrau ou&nbsp; la combinaison.</p><p>Ensuite, enfilez une deuxi&egrave;me paire de gants, plus longs, par-dessus la premi&egrave;re paire, de fa&ccedil;on &agrave; couvrir les gants et le bas des manches. Assurez-vous que les manches et les gants forment une couche compl&egrave;te de protection. Si n&eacute;cessaire, essayez un sarrau de laboratoire ou une combinaison avec des manches plus longues ou utilisez des extensions de manches jetables.</p><p><strong>Enfilage des respirateurs</strong></p><p>Si vous utilisez le respirateur P100, v&eacute;rifiez que les cartouches appropri&eacute;es sont bien fix&eacute;es. Placez premi&egrave;rement le respirateur P100 ou N100 dans la paume de votre main, barrette nasale vers vos doigts, de fa&ccedil;on &agrave; ce que les sangles tombent vers le bas. Portez le respirateur &agrave; votre visage et placez-le sous votre menton et sur votre nez. Avec l&rsquo;autre main, tirez les sangles par-dessus la t&ecirc;te, afin que la sangle du bas soit sous votre oreille et la sangle du haut, au-dessus de votre oreille. Du bout des doigts, ajustez la barrette m&eacute;tallique &agrave; la forme de votre nez. L&rsquo;ajustement des respirateurs sera v&eacute;rifi&eacute; pour chaque utilisateur.</p><p>&nbsp;Apr&egrave;s avoir ajust&eacute; le respirateur, il est important d&rsquo;effectuer une v&eacute;rification de l&rsquo;&eacute;tanch&eacute;it&eacute;. Pour ce faire, vous devez placer vos mains avec gants propres sur le respirateur et prendre une respiration rapide&nbsp; pour voir si le respirateur adh&egrave;re &agrave; votre visage. L&rsquo;air ne doit pas entrer par les c&ocirc;t&eacute;s du respirateur. R&eacute;ajustez le respirateur au besoin.</p><p><strong>Enfilage des lunettes de protection</strong></p><p>Enfin, une fois que le respirateur est bien install&eacute;, mettez les lunettes de s&eacute;curit&eacute;. Vous &ecirc;tes maintenant pr&ecirc;t &agrave; mener les activit&eacute;s d&rsquo;examen.</p>",
+      "transcriptLinkButton": "Cliquez ici si vous rencontrez des difficultés pour visionner la vidéo ci-dessus.",
+      "transcriptLink": "http://apollo.omega.dce-eir.net/contentserverdav/nodes/14550000/Donning_FR.mp4"
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b657",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b63b",
+    "body": "<div class=\"multiple-cols transparent-cols warning\"><div class=\"important-note\"><img alt=\"Note importante\" src=\"course/fr/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png\" /></div><div><p>Bien ajuster les lunettes de protection pour &eacute;viter que vous deviez les rajuster au cours de l&rsquo;examen. Toucher les lunettes durant l&rsquo;examen peut entra&icirc;ner la contamination crois&eacute;e. Si vous devez ajuster les lunettes au cours de l&rsquo;examen, vous devrez interrompre l&rsquo;examen, enlever les gants ext&eacute;rieurs, ajuster les lunettes et enfiler une nouvelle paire de gants ext&eacute;rieurs.</p></div></div>",
+    "displayTitle": "",
+    "title": "Revêtir l’ÉPI de manière sécuritaire",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59942554c9e5207835f6b658",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b63c",
+    "body": "<p>Votre tour.</p><p>Cette activit&eacute; vous aidera &agrave; m&eacute;moriser la s&eacute;quence correcte pour l&rsquo;enfilage de votre EPI.</p>",
+    "displayTitle": "",
+    "title": "Activité de révision",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Choisissez l’étape correcte dans la liste déroulante. Sélectionnez chaque réponse seulement une fois.",
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Veuillez sélectionner une option.",
+    "_items": [
+      {
+        "text": "Étape 1",
+        "_options": [
+          {
+            "text": "Enfiler et ajuster les lunettes de protection. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler et vérifier le respirateur ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler la combinaison/le sarrau jetable ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les gants de taille régulière.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Enfiler les longs gants.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 2",
+        "_options": [
+          {
+            "text": "Enfiler et ajuster les lunettes de protection. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler et vérifier le respirateur ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler la combinaison/le sarrau jetable ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Enfiler les gants de taille régulière.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les longs gants.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 3",
+        "_options": [
+          {
+            "text": "Enfiler et ajuster les lunettes de protection. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler et vérifier le respirateur ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler la combinaison/le sarrau jetable ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les gants de taille régulière.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les longs gants.",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Étape 4",
+        "_options": [
+          {
+            "text": "Enfiler et ajuster les lunettes de protection. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler et vérifier le respirateur ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Enfiler la combinaison/le sarrau jetable ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les gants de taille régulière.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les longs gants.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 5",
+        "_options": [
+          {
+            "text": "Enfiler et ajuster les lunettes de protection. ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Enfiler et vérifier le respirateur ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler la combinaison/le sarrau jetable ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les gants de taille régulière.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Enfiler les longs gants.",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p>Bonne r&eacute;ponse</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": "<p>Mauvaise r&eacute;ponse, essayez encore.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Mauvaise r&eacute;ponse, essayez encore.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b659",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b63d",
+    "body": "<p style=\"margin-left:8.55pt;\">Quand vous devez retirer, ajuster ou changer l&rsquo; EPI, il est tout aussi important de suivre les &eacute;tapes requises en s&eacute;quence afin de minimiser l&rsquo;exposition potentielle et d&rsquo;&eacute;viter toute contamination.</p><p style=\"margin-left:8.55pt;\">Regardez la vid&eacute;o pour voir chaque &eacute;tape du processus. Suivez attentivement les instructions et m&eacute;moriser la s&eacute;quence des &eacute;tapes afin de prot&eacute;ger votre propre s&eacute;curit&eacute; et celle de vos coll&egrave;gues!</p><ol><li>Enlever et jeter les gants ext&eacute;rieurs</li><li>Retirer et jeter la combinaison/le sarrau</li><li>Retirer les lunettes de protection</li><li>Retirer le respirateur sans toucher la partie avant et, si vous utilisez un respirateur jetable, jetez-le.</li><li>Retirer et jeter les gants int&eacute;rieurs</li><li>Se laver les mains avec de l&rsquo;eau et du savon</li></ol></div></div>",
+    "displayTitle": "",
+    "title": "Retirer l’ EPI de manière sécuritaire",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/fr/assets/d8a1b898bc06de6d7e9a7266bbca0b634754a5b5.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "fr",
+    "_showVolumeControl": true,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "Transcription",
+      "inlineTranscriptCloseButton": "Cacher la transcription",
+      "inlineTranscriptBody": "<p><strong>Retrait de l&rsquo;&eacute;quipement de protection individuelle</strong></p><p>Lorsque vous retirez l&rsquo;&eacute;quipement de protection individuelle, il importe de le faire avec soin afin de ne pas vous contaminer et de ne pas contaminer les personnes &agrave; proximit&eacute; ou l&rsquo;environnement imm&eacute;diat, par accident.&nbsp;</p><p><strong>Retrait des gants</strong></p><p>Pour commencer, retirez les gants ext&eacute;rieurs &agrave; l&rsquo;aide de la technique tirer-rouler. Avec une main, pincez l&rsquo;ext&eacute;rieur du gant au niveau du poignet, tirez le gant vers les doigts en retournant le gant. Avec la main du gant sale, rebroussez le gant sale. Avec la main propre, placez vos doigts sous le gant sale au niveau du poignet et retournez-le vers les doigts. &Agrave; ce moment, les deux gants seront retourn&eacute;s d&rsquo;une seule pi&egrave;ce. Jetez les gants dans le bac de d&eacute;chets dangereux .&nbsp;</p><p>Apr&egrave;s avoir retir&eacute; et jet&eacute; les gants ext&eacute;rieurs,</p><p>inspectez la premi&egrave;re paire de gants pour v&eacute;rifier si elle est contamin&eacute;e ou compromise. Si la premi&egrave;re paire de gants est compromise, elle doit &ecirc;tre retir&eacute;e &agrave; l&rsquo;aide de la technique tirer-rouler et &ecirc;tre remplac&eacute;e. Si la premi&egrave;re paire de gants n&rsquo;est pas compromise, enfilez une deuxi&egrave;me paire de gants propre.</p><p><strong>Retrait du sarrau de laboratoire</strong></p><p>Tournez votre sarrau de laboratoire ou votre combinaison &agrave; l&rsquo;envers pendant l&rsquo;enlevage. D&eacute;posez tout l&rsquo;&eacute;quipement de protection individuelle utilis&eacute; dans le bac &agrave; d&eacute;chets dangereux.</p><p><strong>&nbsp;Retrait des lunettes de et du respirateur</strong></p><p>Enlevez vos lunettes de s&eacute;curit&eacute; et mettez-les de c&ocirc;t&eacute; pour les nettoyer. Ensuite, pour le respirateur, prenez la sangle du bas et faites-la passer par-dessus la t&ecirc;te; faites de m&ecirc;me avec la sangle du haut. Le respirateur jetable peut maintenant &ecirc;tre plac&eacute; dans le bac de d&eacute;chets dangereux. Si un respirateur r&eacute;utilisable est utilis&eacute;, nettoyez et rangez le respirateur conform&eacute;ment aux directives du fabricant. Les cartouches du respirateur doivent &ecirc;tre &eacute;limin&eacute;es selon les proc&eacute;dures d&#39;exploitation standard de l&#39;ASFC. Ne touchez pas la partie avant du respirateur lorsque vous le retirez, car elle est peut-&ecirc;tre contamin&eacute;e.&nbsp;</p><p><strong>Retrait de la 2e paire de gants et du sarrau</strong></p><p>Apr&egrave;s avoir retir&eacute; le respirateur et les lunettes de protection, retirez les gants ext&eacute;rieurs &agrave; l&rsquo;aide de la technique tirer-rouler.&nbsp;</p><p>Avec une main, pincez l&rsquo;ext&eacute;rieur du gant au niveau du poignet, tirez le gant vers les doigts en retournant le gant. Avec la main du gant sale, rebroussez le gant sale. Avec la main propre, placez vos doigts sous le gant sale au niveau du poignet et retournez-le vers les doigts. &Agrave; ce moment, les deux gants seront retourn&eacute;s d&rsquo;une seule pi&egrave;ce. Jetez les gants dans le bac de d&eacute;chets dangereux.&nbsp;</p><p>Ensuite, retirez votre sarrau ou votre combinaison.&nbsp;</p><p>Enfin, retirez la derni&egrave;re paire de gants de nitrile, toujours &agrave; l&rsquo;aide de la technique tirer-rouler. Jetez tout l&rsquo;&eacute;quipement dans le bac de d&eacute;chets dangereux.</p><p><strong>Lavez vos mains</strong></p><p>Une fois tout l&rsquo;&eacute;quipement de protection individuelle retir&eacute;, n&rsquo;oubliez pas de vous laver les mains.&nbsp;</p>",
+      "transcriptLinkButton": "Cliquez ici si vous rencontrez des difficultés pour visionner la vidéo ci-dessus.",
+      "transcriptLink": "http://apollo.omega.dce-eir.net/contentserverdav/nodes/14550000/Doffing_FR.mp4"
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b65a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b63e",
+    "body": "<p>Votre tour.</p><p>Quelle est la s&eacute;quence correcte pour retirer votre EPI de mani&egrave;re s&eacute;curitaire?</p>",
+    "displayTitle": "",
+    "title": "Activité de révision",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choisissez l’étape correcte dans la liste déroulante.",
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Veuillez sélectionner une option.",
+    "_items": [
+      {
+        "text": "Étape 1",
+        "_options": [
+          {
+            "text": "Enlever et jeter les gants extérieurs",
+            "_isCorrect": true
+          },
+          {
+            "text": "Retirer et jeter la combinaison/le sarrau",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter les gants intérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer le respirateur et le jeter, s’il y a lieu ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer les lunettes de protection ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Se laver les mains avec de l’eau et du savon",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 2",
+        "_options": [
+          {
+            "text": "Enlever et jeter les gants extérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter la combinaison/le sarrau",
+            "_isCorrect": true
+          },
+          {
+            "text": "Retirer et jeter les gants intérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer le respirateur et le jeter, s’il y a lieu ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer les lunettes de protection ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Se laver les mains avec de l’eau et du savon",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 3",
+        "_options": [
+          {
+            "text": "Enlever et jeter les gants extérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter la combinaison/le sarrau",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter les gants intérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer le respirateur et le jeter, s’il y a lieu ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer les lunettes de protection ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Se laver les mains avec de l’eau et du savon",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 4",
+        "_options": [
+          {
+            "text": "Enlever et jeter les gants extérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter la combinaison/le sarrau",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter les gants intérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer le respirateur et le jeter, s’il y a lieu ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Retirer les lunettes de protection ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Se laver les mains avec de l’eau et du savon",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 5",
+        "_options": [
+          {
+            "text": "Enlever et jeter les gants extérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter la combinaison/le sarrau",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter les gants intérieurs",
+            "_isCorrect": true
+          },
+          {
+            "text": "Retirer le respirateur et le jeter, s’il y a lieu ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer les lunettes de protection ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Se laver les mains avec de l’eau et du savon",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 6",
+        "_options": [
+          {
+            "text": "Enlever et jeter les gants extérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter la combinaison/le sarrau",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer et jeter les gants intérieurs",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer le respirateur et le jeter, s’il y a lieu ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Retirer les lunettes de protection ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Se laver les mains avec de l’eau et du savon",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p>Bonne r&eacute;ponse</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": "<p>Mauvaise r&eacute;ponse, essayez encore.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Mauvaise r&eacute;ponse, essayez encore.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Retry",
+        "ariaLabel": "Retry"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b65b",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b63f",
+    "body": "<p>Vous avez &eacute;tudi&eacute; comment enfiler et retirer l&rsquo;EPI de mani&egrave;re s&eacute;curitaire afin de minimiser l&rsquo;exposition potentielle aux SHT soup&ccedil;onn&eacute;es et pr&eacute;venir toute contamination.</p><p>Maintenant, vous &ecirc;tes pr&ecirc;t &agrave; faire le quiz final. Le quiz vous donne l&rsquo;opportunit&eacute; de v&eacute;rifier vos connaissances et de rappeler certains d&eacute;tails importants de la proc&eacute;dure d&rsquo;enfilage et de retrait s&eacute;curitaire.</p><p style=\"text-align:center\"><a class=\"button\" href=\"#59942554c9e5207835f6b62d\" style=\"text-decoration:none;color:white;\">Passer au Quiz final</a></p>",
+    "displayTitle": "",
+    "title": "Conclusion",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59942554c9e5207835f6b65c",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b63f",
+    "body": "",
+    "displayTitle": "",
+    "title": "Conclusion",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/0d3f7cbaa9fab50d41346fc7a0cf65aa40d55be8.jpg",
+      "small": "course/fr/assets/0d3f7cbaa9fab50d41346fc7a0cf65aa40d55be8.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b65d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b640",
+    "body": "<p>L&rsquo;agent qui a fait l&rsquo;essai d&rsquo;ajustement avec le respirateur N95 n&rsquo;a pas besoin de refaire l&rsquo;essai avec le respirateur N-100 ou P-100.</p>",
+    "displayTitle": "",
+    "title": "Question 1",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Vrai",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Faux",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b65e",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b641",
+    "body": "<p>Voici une liste de l&rsquo;&eacute;quipement de protection individuelle qui doit &ecirc;tre port&eacute; au cours d&rsquo;un examen dans l&rsquo;aire d&rsquo;examen d&eacute;sign&eacute;e s&eacute;curitaire&nbsp;:</p>",
+    "displayTitle": "",
+    "title": "Question 2",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Choisir tout ce qui s’applique ",
+    "_items": [
+      {
+        "text": "Gants en nitrile (9 ½ po à 9 ¾ po & 12 po)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lunettes de protection",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Bouchons d’oreille",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Respirateur P100 or N100 ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Sarrau ou combinaison de type Tyvek ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Chaussures à embout d’acier ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 6,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b65f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b642",
+    "body": "<p>La bonne marche &agrave; suivre pour retirer les gants en nitrile &agrave; l&rsquo;aide la technique tirer‑rouler est&nbsp;:</p>",
+    "displayTitle": "",
+    "title": "Question 3",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Veuillez sélectionner une option.",
+    "_items": [
+      {
+        "text": "Étape 1",
+        "_options": [
+          {
+            "text": "Jeter les gants dans un contenant désigné pour les déchets dangereux. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Pincer l’extérieur du gant au niveau du poignet, tirer le gant vers les doigts en retournant le gant. ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Placer les doigts de la main propre sous le gant sale au niveau du poignet et retourner-le gant vers les doigts. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Rebrousser le gant retiré avec la main du gant sale. ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 2",
+        "_options": [
+          {
+            "text": "Jeter les gants dans un contenant désigné pour les déchets dangereux. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Pincer l’extérieur du gant au niveau du poignet, tirer le gant vers les doigts en retournant le gant. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Placer les doigts de la main propre sous le gant sale au niveau du poignet et retourner-le gant vers les doigts. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Rebrousser le gant retiré avec la main du gant sale. ",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Étape 3",
+        "_options": [
+          {
+            "text": "Jeter les gants dans un contenant désigné pour les déchets dangereux. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Pincer l’extérieur du gant au niveau du poignet, tirer le gant vers les doigts en retournant le gant. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Placer les doigts de la main propre sous le gant sale au niveau du poignet et retourner-le gant vers les doigts. ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Rebrousser le gant retiré avec la main du gant sale. ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Étape 4",
+        "_options": [
+          {
+            "text": "Jeter les gants dans un contenant désigné pour les déchets dangereux. ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Pincer l’extérieur du gant au niveau du poignet, tirer le gant vers les doigts en retournant le gant. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Placer les doigts de la main propre sous le gant sale au niveau du poignet et retourner-le gant vers les doigts. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Rebrousser le gant retiré avec la main du gant sale. ",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b660",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b643",
+    "body": "<p>Pour enlever le respirateur, placez-le dans la paume d&rsquo;une main, puis prenez les sangles de l&rsquo;autre main et faites-les passer par-dessus la t&ecirc;te.</p>",
+    "displayTitle": "",
+    "title": "Question 4",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Vrai",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Faux",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b661",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b644",
+    "body": "<p>Quelle est la derni&egrave;re &eacute;tape de la proc&eacute;dure pour retirer l&rsquo;EPI de mani&egrave;re s&eacute;curitaire?</p>",
+    "displayTitle": "",
+    "title": "Question 5",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Se laver les mains avec de l’eau et du savon",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Nettoyer les lunettes de protection",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Enlever et jeter les gants intérieurs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Enlever et jeter le sarrau",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b662",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b645",
+    "body": "<p>S&eacute;lectionnez l&rsquo;&eacute;nonc&eacute; correct</p>",
+    "displayTitle": "",
+    "title": "Question 6",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Si vous devez ajuster vos lunettes de protection pendant l’examen, prenez le bord des lunettes avec précaution pour éviter de toucher la peau. ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Si vous devez ajuster vos lunettes de protection pendant l’examen, enlevez les gants extérieurs, ajustez les lunettes, puis enfilez une nouvelle paire de gants extérieurs. ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b663",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b646",
+    "body": "<p>Les manches de votre sarrau ne vont pas tout &agrave; fait aux poignets. Que devriez-vous faire?</p>",
+    "displayTitle": "",
+    "title": "Question 7",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Rebrousser les manches du sarrau avec les gants intérieurs afin qu’ils ne remontent pas ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Utiliser des extensions de manches jetables ou un sarrau avec des manches plus longues ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Utiliser les longs gants en nitrile comme gants intérieurs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Ne pas s’en inquiéter car les longs gants extérieurs couvriront de toute façon les manches",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b664",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b647",
+    "body": "",
+    "displayTitle": "",
+    "title": "Question 8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Sélectionner l’énoncé correct. ",
+    "_items": [
+      {
+        "text": "Si vous utilisez un respirateur réutilisable P100, gardez-le dans un sac scellé et nettoyez-le au moins une fois par semaine.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Si vous utilisez un respirateur réutilisable P100, nettoyez-le conformément aux directives du fabricant après chaque utilisation. ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b665",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b648",
+    "body": "",
+    "displayTitle": "",
+    "title": "Résultat",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "assessmentResults",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": false,
+    "_assessmentId": "FinalQuiz",
+    "_retry": {
+      "button": "Refaire le quiz",
+      "feedback": ""
+    },
+    "_completionBody": "Votre résultat : {{{scoreAsPercent}}}% {{{feedback}}}",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "Vous n’avez pas réussi le cours. Sélectionnez “refaire le quiz” pour essayer encore ou retournez au menu d’accueil pour retourner au cours.",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 80,
+        "feedback": "Félicitations! Vous avez réussi le cours. ",
+        "_allowRetry": false,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_id": "59942554c9e5207835f6b666",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b649",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/bd60346624ba96f8dd8dc6b7d9a7d5194a05fcfe.jpg",
+      "small": "course/fr/assets/bd60346624ba96f8dd8dc6b7d9a7d5194a05fcfe.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b667",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b64a",
+    "body": "<div class=\"multiple-cols transparent-cols warning\"><div class=\"important-note\"><img alt=\"Note importante\" src=\"course/fr/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png\" /></div><div><p>Portez des gants propres pour nettoyer les lunettes de sécurité et l’appareil respiratoire réutilisable. Assurez-vous de  toujours porter des gants au moment de manipuler l’EPI ou tout autre équipement contaminé. Changer les gants au besoin.</p></div></div>",
+    "displayTitle": "",
+    "title": "Retirer l’ EPI de manière sécuritaire",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59942554c9e5207835f6b668",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b64b",
+    "body": "<p>Dans le but de mettre &agrave; jour votre historique d&rsquo;apprentissage, vous devez confirmer que vous avez compl&eacute;t&eacute; ce cours en ligne.</p><p>Svp, suivre les &eacute;tapes ci-dessous&nbsp;:</p><ol><li>Fermez cette fen&ecirc;tre en cliquant le bouton <strong>Fin de session</strong> afin de retourner sur la page de la description du cours.</li><li>Cliquez le lien <strong>Actualiser</strong> au bas de la page afin de mettre &agrave; jour votre progr&egrave;s d&rsquo;apprentissage.</li><li>Cliquez le lien &nbsp;<strong>Confirmer participation</strong> situ&eacute; sous la <strong>section Confirmer Participation</strong></li></ol>",
+    "displayTitle": "",
+    "title": "Confirmer votre participation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "To confirm participation, use the link in the Confirm Participation Section in My Learning.",
+      "large": "course/fr/assets/deec03abe2108e408e1f128c9180be1522300d6d.JPG",
+      "small": "course/fr/assets/deec03abe2108e408e1f128c9180be1522300d6d.JPG",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59942554c9e5207835f6b669",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59942554c9e5207835f6b64c",
+    "body": "",
+    "displayTitle": "Important",
+    "title": "Important",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/fr/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png",
+      "small": "course/fr/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png",
+      "attribution": ""
+    }
+  }
+]

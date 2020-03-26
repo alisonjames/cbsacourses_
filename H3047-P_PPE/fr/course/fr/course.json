@@ -1,0 +1,186 @@
+{
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Activer l’accessibilité?",
+      "accessibilityToggleTextOff": "Désactiver l’accessibilité?",
+      "_accessibilityInstructions": {
+        "touch": "Instruction d’utilisation. Glissez vers la gauche pour continuer. Glissez vers la droite pour revenir. Tappez deux fois pour sélectionner. Utilisez deux doigts en glissant vers le haut pour retourner au haut de la page.",
+        "notouch": "Instruction d’utilisation. Utilisez la touche « Tab »  pour continuer. Utilisez les touches «Shift Tab»  pour revenir. Utilisez la touche « Enter » pour sélectionner. Utilisez la touche « Escape » pour revenir au haut de la page.",
+        "ipad": "Instruction d’utilisation. Glissez vers la gauche pour continuer. Glissez vers la droite pour revenir. Tappez deux fois pour sélectionner. Utilisez deux doigts en glissant vers le haut pour retourner au haut de la page. Instruction d’utilisation pour accéder à l’utilisation du clavier. Utilisez la gauche pour continuer. Utilisez la droite pour revenir. Utilisez la touche « up » et « down » simultanément pour sélectionner."
+      },
+      "_ariaLabels": {
+        "navigation": "Barre de navigation du cours",
+        "menuLoaded": "Page d’accueil chargée",
+        "menu": "Page d’accueil",
+        "menuItem": "Item du module",
+        "menuViewButton": "Sélectionnez ici pour entrer",
+        "page": "Page",
+        "pageLoaded": "Page chargée",
+        "previous": "Retour",
+        "navigationBack": "Retourner en arrière",
+        "navigationDrawer": "Ouvrir le menu principal",
+        "closeResources": "Fermer le menu principal",
+        "drawerBack": "Retourner à la barre latéral",
+        "drawer": "Barre latéral",
+        "closePopup": "Fermer la fenêtre",
+        "next": "Suivant",
+        "done": "Terminer",
+        "complete": "Compléter",
+        "incomplete": "Incomplet",
+        "correct": "Correct",
+        "locked": "Verrouillé",
+        "accessibilityToggleButton": "En sélectionnant ce bouton, vous pouvez activer ou désactiver l’accessibilité.",
+        "feedbackPopUp": "Fenêtre ouverte",
+        "visited": "Visité",
+        "menuBack": "Retourner au menu",
+        "menuIndicatorHeading": "Titre du menu"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_media": {
+        "ariaRegion": "Il s'agit d'un composant de lecteur multimédia. Sélectionnez le bouton de lecture / pause pour regarder ou écouter.",
+        "transcriptButton": "Alternativement, vous pouvez sélectionner le bouton de transcription pour accéder à la transcription."
+      },
+      "_accordion": {
+        "ariaRegion": "Ce composant est un accordéon composé de panneaux de contenu se dépliant. Sélectionnez chaque titre d’item pour afficher et cacher son contenu."
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Ce composant de question vous oblige à sélectionner les réponses à partir de plusieurs listes déroulantes. Lorsque vous avez sélectionné toutes vos réponses, sélectionnez le bouton de Soumettre."
+      },
+      "_mcq": {
+        "ariaRegion": "Ceci est une question à choix multiples. Une fois que vous avez sélectionné une option, sélectionnez le bouton  Soumettre."
+      }
+    },
+    "_extensions": {
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Sections du module",
+        "pageLevelProgressIndicatorBar": "Barre de progression. Sélectionnez ici pour afficher vos progrès dans le présent module et sélectionnez un item pour y accéder. ",
+        "pageLevelProgressMenuBar": "Vous avez complété",
+        "pageLevelProgressEnd": "Vous avez atteint la fin de la liste de sections du module.",
+        "optionalContent": "Contenu optionnel"
+      },
+      "_resources": {
+        "resourcesEnd": "You have reached the end of the list of resources."
+      }
+    }
+  },
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_type": "course",
+  "_lockType": "custom",
+  "_classes": "",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Soumettre",
+      "ariaLabel": "Soumettre"
+    },
+    "_reset": {
+      "buttonText": "Réessayer",
+      "ariaLabel": "Réessayer"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Afficher la bonne réponse ",
+      "ariaLabel": "Afficher la bonne réponse "
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Cacher la bonne réponse",
+      "ariaLabel": "Cacher la bonne réponse"
+    },
+    "_showFeedback": {
+      "buttonText": "Afficher la rétroaction",
+      "ariaLabel": "Afficher la rétroaction"
+    },
+    "remainingAttemptsText": "tentatives restantes",
+    "remainingAttemptText": "dernière tentative",
+    "disabledAriaLabel": "Ce bouton est désactivé pour le moment"
+  },
+  "_latestTrackingId": 25,
+  "body": "<p>Produit par la Direction de la formation et du perfectionnement en partenariat avec la Division de la sant&eacute; et de la s&eacute;curit&eacute; au travail.&nbsp;</p><script>  if(document.getElementById(\"cbsa-asfc-logo\")){document.getElementById(\"cbsa-asfc-logo\").src=\"adapt/css/assets/CBSA-Label-White-web-fr.png\";}</script>",
+  "displayTitle": "H3047-P Revêtir et retirer l'équipement de protection individuelle",
+  "title": "H3047-P Revêtir et retirer l'équipement de protection individuelle",
+  "_blockSlider": {
+    "_isEnabled": true
+  },
+  "_glossary": {
+    "_isEnabled": false,
+    "title": "",
+    "description": "",
+    "searchPlaceholder": "",
+    "searchWithInDescriptionLabel": "",
+    "itemNotFoundMessage": "No results found",
+    "_glossaryItems": []
+  },
+  "_triggered": {
+    "_isEnabled": true
+  },
+  "_aboutUs": {
+    "title": "Contactez-nous",
+    "description": "",
+    "headline": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_aboutUsItems": [
+      {
+        "title": "Contactez-nous",
+        "description": "<p>Pour signaler un probl&egrave;me technique ou pour nous faire parvenir un commentaire ou suggestion concernant ce produit de formation, veuillez contacter&nbsp;l&rsquo;<a href=\"mailto:H0PLTAg@cbsa-asfc.gc.ca\">&eacute;quipe de Mon apprentissage</a>.</p>"
+      }
+    ],
+    "_socialLinks": []
+  },
+  "_drawerPageNavigation": {
+    "_isEnabled": true,
+    "title": "Modules",
+    "description": " "
+  },
+  "_assessment": {
+    "_postTotalScoreToLms": true,
+    "_isPercentageBased": true,
+    "_scoreToPass": 80
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_resources": {
+    "_isEnabled": false,
+    "_drawerOrder": 0,
+    "title": "Ressources d'apprentissage",
+    "description": " ",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Média",
+      "link": "Liens"
+    },
+    "_filterAria": {
+      "allAria": "Afficher toutes les ressources d’apprentissage",
+      "documentAria": "Afficher toutes les ressources de type document",
+      "mediaAria": "Afficher toutes les ressources de type média",
+      "linkAria": "Afficher toutes les ressources de type liens"
+    },
+    "_resourcesItems": []
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "title": "Reprendre",
+    "body": "Souhaitez-vous reprendre où vous vous êtes arrêté ?",
+    "_buttons": {
+      "yes": "Oui",
+      "no": "Non"
+    }
+  }
+}

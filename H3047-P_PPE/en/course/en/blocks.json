@@ -1,0 +1,952 @@
+[
+  {
+    "_id": "598466bf24cd560c20315767",
+    "_type": "block",
+    "_parentId": "5984661f24cd560c2031575d",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 1,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Before You Begin",
+    "title": "Before You Begin",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59847316dfff9d880ff36ff9",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 2,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Minimum PPE for DSEA",
+    "title": "Minimum PPE for DSEA",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59847818dfff9d880ff37002",
+    "_type": "block",
+    "_parentId": "59847818dfff9d880ff37001",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 3,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Minimum PPE for DSEA",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899331834318c02eefff1b",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 4,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 1",
+    "title": "Question 1",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue to Next Question",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899d4a834318c02eefff36",
+    "_type": "block",
+    "_parentId": "59899d4a834318c02eefff35",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 5,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Results",
+    "title": "Results",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
+        "_isLockedOnRevisit": true
+      }
+    }
+  },
+  {
+    "_id": "5989fa76858250042dc385f5",
+    "_type": "block",
+    "_parentId": "5989fa75858250042dc385f4",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 6,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Splash Page",
+    "title": "Splash Page",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "598472dddfff9d880ff36ff4",
+    "_type": "block",
+    "_parentId": "5984661f24cd560c2031575d",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 7,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Block title",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59848666dfff9d880ff37023",
+    "_type": "block",
+    "_parentId": "59847818dfff9d880ff37001",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 8,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Minimum PPE for DSEA",
+    "_trickle": {
+      "_stepLocking": {
+        "_isLockedOnRevisit": false,
+        "_isCompletionRequired": true,
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": "true",
+        "_isFullWidth": "true",
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": false
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5984a63edfff9d880ff37050",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 9,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Safely donning your PPE",
+    "title": "Safely donning your PPE",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "5989995e834318c02eefff1f",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 10,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 2",
+    "title": "Question 2",
+    "_assessment": {
+      "_quizBankID": 2
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Next Question",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "598af00abecff9ec2ef9c2f5",
+    "_type": "block",
+    "_parentId": "59899d4a834318c02eefff35",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 11,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Confirm participation",
+    "title": "Confirm participation",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "5984866cdfff9d880ff37031",
+    "_type": "block",
+    "_parentId": "59847818dfff9d880ff37001",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 12,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Minimum PPE for DSEA",
+    "_trickle": {
+      "_stepLocking": {
+        "_isLockedOnRevisit": false,
+        "_isCompletionRequired": true,
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": "true",
+        "_isFullWidth": "true",
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": false
+      },
+      "_scrollTo": "@block +1",
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "_id": "5984ab96dfff9d880ff37059",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 13,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Safely donning your PPE",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899a86834318c02eefff21",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 14,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 3",
+    "title": "Question 3",
+    "_assessment": {
+      "_quizBankID": 3
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Next Question",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "5984ac96dfff9d880ff3705b",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 15,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Review activity",
+    "title": "Review activity",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899b97834318c02eefff26",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 16,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 4",
+    "title": "Question 4",
+    "_assessment": {
+      "_quizBankID": 4
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Next Question",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "5992d951b24ad9bc3662d493",
+    "_type": "block",
+    "_parentId": "59847818dfff9d880ff37001",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 17,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Important",
+    "title": "Important",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "5984b202dfff9d880ff37060",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 18,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Safely doffing your PPE",
+    "title": "Safely doffing your PPE",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899bd8834318c02eefff29",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 19,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 5",
+    "title": "Question 5",
+    "_assessment": {
+      "_quizBankID": 5
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Next Question",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899c3f834318c02eefff2d",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 20,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 6",
+    "title": "Question 6",
+    "_assessment": {
+      "_quizBankID": 6
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Next Question",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "598aedf1becff9ec2ef9c2f3",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 21,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Safely doffing your PPE",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "5984b850dfff9d880ff37065",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 22,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Review activity",
+    "title": "Review activity",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899c7d834318c02eefff30",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 23,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 7",
+    "title": "Question 7",
+    "_assessment": {
+      "_quizBankID": 7
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Next Question",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "5984bc5cdfff9d880ff3706d",
+    "_type": "block",
+    "_parentId": "59847316dfff9d880ff36ff8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 24,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Conclusion",
+    "title": "Conclusion",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  },
+  {
+    "_id": "59899d02834318c02eefff33",
+    "_type": "block",
+    "_parentId": "59899330834318c02eefff1a",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_trackingId": 25,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "Question 8",
+    "title": "Question 8",
+    "_assessment": {
+      "_quizBankID": 8
+    },
+    "_trickle": {
+      "_isEnabled": true,
+      "_autoScroll": true,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "visible",
+        "_styleAfterClick": "scroll",
+        "_isFullWidth": true,
+        "_autoHide": true,
+        "_className": "",
+        "text": "Completed!",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    }
+  }
+]

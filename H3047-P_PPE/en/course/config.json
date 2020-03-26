@@ -1,0 +1,78 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "__v": 0,
+  "_courseId": "5984661f24cd560c2031575a",
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_accessibility": {
+    "_isTextProcessorEnabled": true,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isDisabledOnTouchDevices": true,
+    "_isEnabled": true
+  },
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_id": "5984661f24cd560c20315763",
+  "_spoor": {
+    "_advancedSettings": {
+      "_commitOnVisibilityChangeHidden": true,
+      "_suppressErrors": false,
+      "_commitRetryDelay": 2000,
+      "_maxCommitRetries": 5,
+      "_timedCommitFrequency": 10,
+      "_commitOnStatusChange": true,
+      "_showDebugWindow": false
+    },
+    "_reporting": {
+      "_resetStatusOnLanguageChange": false,
+      "_onAssessmentFailure": "incomplete",
+      "_onTrackingCriteriaMet": "passed"
+    },
+    "_tracking": {
+      "_shouldRecordInteractions": true,
+      "_shouldStoreResponses": true,
+      "_shouldSubmitScore": true,
+      "_requireAssessmentPassed": true,
+      "_requireCourseCompleted": false
+    },
+    "_isEnabled": true
+  },
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "build": {
+    "includes": [
+      "5a5ce4a58ccae6cc2bb6aa7b",
+      "adapt-contrib-boxMenu",
+      "adapt-contrib-tutor",
+      "adapt-contrib-trickle",
+      "adapt-contrib-resources",
+      "adapt-contrib-glossary",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-assessment",
+      "adapt-aboutUs",
+      "adapt-contrib-blockslider",
+      "adapt-contrib-drawerPageNavigation",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-spoor",
+      "adapt-contrib-triggered",
+      "adapt-contrib-accordion",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-media",
+      "adapt-contrib-matching",
+      "adapt-contrib-mcq",
+      "adapt-contrib-assessmentResults"
+    ]
+  }
+}

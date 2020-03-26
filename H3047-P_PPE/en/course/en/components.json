@@ -1,0 +1,2111 @@
+[
+  {
+    "_id": "598466c324cd560c20315768",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "598466bf24cd560c20315767",
+    "body": "<script>if(document.querySelector(\".accordion-widget.component-widget\")){document.querySelector(\".accordion-widget.component-widget\").firstChild.nextElementSibling.firstChild.nextElementSibling.click()};</script>",
+    "displayTitle": "",
+    "title": "Before You Begin",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Welcome",
+        "body": "<p>To reduce the risk of exposure to fentanyl, fentanyl analogues, their precursors and other highly toxic substances (HTS), it is extremely important to always wear the required Personal Protective Equipment (PPE) when examining goods in the Designated Safe Examination Area (DSEA).</p><p>&nbsp;</p><p>This course shows all CBSA front line staff how to safely don and remove their PPE in order to protect their health and safety, the health and safety of their colleagues and to prevent cross-contamination.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": "display-acc"
+      },
+      {
+        "title": "Your learning objective",
+        "body": "<p>Once you have completed this course, you will be able to recall the steps for the safe donning and doffing of the PPE that must be worn in a DSEA.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Duration",
+        "body": "<p>The course will take approximately 15 minutes to complete.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_id": "598472e1dfff9d880ff36ff5",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "598472dddfff9d880ff36ff4",
+    "body": "<p style=\"text-align:center\"><a class=\"button\" href=\"#59847316dfff9d880ff36ff7\" style=\"text-decoration:none;color:white;\">Continue to next module </a></p>",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59848551dfff9d880ff37009",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59847818dfff9d880ff37002",
+    "body": "",
+    "displayTitle": "Gloves",
+    "title": "Gloves",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5bfd69ad7d8cb4c947b43eab6d0205bcfdf24f05.png",
+      "small": "course/en/assets/5bfd69ad7d8cb4c947b43eab6d0205bcfdf24f05.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59848647dfff9d880ff3701b",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59847818dfff9d880ff37002",
+    "body": "",
+    "displayTitle": "Mask",
+    "title": "Mask",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/46669127eb1e4b3ac806298612f1c55897ed25e8.png",
+      "small": "course/en/assets/46669127eb1e4b3ac806298612f1c55897ed25e8.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59848666dfff9d880ff37024",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "59848666dfff9d880ff37023",
+    "body": "",
+    "displayTitle": "Mask",
+    "title": "Mask",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7d88c8a8ab40e4fe100afbd691962aaf1146b5a4.png",
+      "small": "course/en/assets/7d88c8a8ab40e4fe100afbd691962aaf1146b5a4.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59848666dfff9d880ff3702a",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "59848666dfff9d880ff37023",
+    "body": "",
+    "displayTitle": "Safety glasses",
+    "title": "Safety glasses",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d67ec4a3e0b94e4f02b7a09b8fcfba89157a682f.png",
+      "small": "course/en/assets/d67ec4a3e0b94e4f02b7a09b8fcfba89157a682f.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5984866cdfff9d880ff37032",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5984866cdfff9d880ff37031",
+    "body": "",
+    "displayTitle": "Tyvek",
+    "title": "Tyvek",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7dd9ea7d10d24ed751dfd75fa6c021581ddeed91.png",
+      "small": "course/en/assets/7dd9ea7d10d24ed751dfd75fa6c021581ddeed91.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5984866cdfff9d880ff37038",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5984866cdfff9d880ff37031",
+    "body": "",
+    "displayTitle": "Lab coat",
+    "title": "Lab coat",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6f6792836c937e2362aceea8c8a565bd925d2c47.png",
+      "small": "course/en/assets/6f6792836c937e2362aceea8c8a565bd925d2c47.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59848955dfff9d880ff3704f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59847316dfff9d880ff36ff9",
+    "body": "<p>Whether you are the examining or assisting officers, you must always wear PPE when performing examinations in the DSEA to limit exposure to HTS. Below is the minimum list of required PPE that must be available to you:</p><div class=\"multiple-cols\"><div><p>Regular size (i.e. 9&frac12;&rdquo; &ndash; 9&frac34;&rdquo;) and long (i.e. 12&rdquo;) &nbsp;nitrile gloves</p><img alt=\"\" src=\"course/en/assets/5bfd69ad7d8cb4c947b43eab6d0205bcfdf24f05.png\" /></div><div><p>An individually assigned P100 reusable respirator with replacement cartridges or disposable N100 respirator</p><img alt=\"\" src=\"course/en/assets/46669127eb1e4b3ac806298612f1c55897ed25e8.png\" /><img alt=\"\" src=\"course/en/assets/7d88c8a8ab40e4fe100afbd691962aaf1146b5a4.png\" /></div><div><p>Safety goggles</p><img alt=\"\" src=\"course/en/assets/d67ec4a3e0b94e4f02b7a09b8fcfba89157a682f.png\" /></div><div><p>Tyvek type disposable coveralls with integrated head covering or lab coat</p><img alt=\"\" src=\"course/en/assets/7dd9ea7d10d24ed751dfd75fa6c021581ddeed91.png\" /><img alt=\"\" src=\"course/en/assets/6f6792836c937e2362aceea8c8a565bd925d2c47.png\" /></div></div><div class=\"multiple-cols transparent-cols warning\"><div class=\"important-note\"><img alt=\"Important note\" src=\"course/en/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png\" /></div><div><p>Make sure your respirator is fit tested in accordance with the<span style=\"color:#8b1d30;\"> </span><a href=\"http://atlas/hrb-dgrh/res/ohs-sst/documents/rpp_ppr_eng.pdf\" target=\"_blank\"><span style=\"color:#8b1d30;\">Respiratory Protection Program</span></a><span style=\"color:#8b1d30;\">.</span> Airborne hazards can leak around the face piece into the respirator and be inhaled if the respirator does not fit your face or if you don&rsquo;t adjust the face piece properly.</p></div></div>",
+    "displayTitle": "",
+    "title": "Minimum PPE for DSEA",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5984a64bdfff9d880ff37051",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5984a63edfff9d880ff37050",
+    "body": "<p>Before performing an intrusive examination, both the examining and assisting officer must don their PPE. The <a href=\"http://atlas/pb-dgp/res/gmpp/sop-pne/hts-sht/attach/hts_safe_exam_secure_sht_eng.pdf\" target=\"_blank\"><span style=\"color:#8b1d30;\">SOP for the handling of suspected HTS</span></a> lists the procedure to safely do this. It is important that you follow every step of the procedure in sequence to minimize the potential for any exposure to suspected HTS.</p><p>Watch the video below to review each step and memorize the sequence of steps:</p><ol><li>Put on regular size nitrile gloves.</li><li>Put on disposable coverall/lab coat.</li><li>Put on long nitrile gloves over coverall/lab coat sleeves.</li><li>Don and check respirator in accordance with manufacturer&rsquo;s instruction and the Respiratory Protection Program.</li><li>Place safety goggles over eyes.</li></ol></div></div>",
+    "displayTitle": "",
+    "title": "Safely donning your PPE",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "media",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/b0b9ff06cb62671d57d32f5babfb958aba868bd7.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "<p><strong>Donning Personal Protective Equipment</strong></p><p>Officers conducting examinations of packages suspected of containing highly toxic substances are required to conduct examinations in a designated safe examination area. Officers are also required to wear personal protective equipment including a respirator, disposable lab coat or Tyvek coverall, gloves and safety goggles. This video will cover the proper donning and doffing of the required personal protective equipment to be worn in a designated safe examination area.</p><p><strong>Donning Gloves and Lab Coat or Coveralls</strong></p><p>During the examination, officers will be wearing a disposable lab coat or disposable Tyvek coveralls.&nbsp;</p><p>To begin, first put on a pair of nitrile gloves followed by the lab coat or coveralls.</p><p>Now, place a second pair of longer gloves over the first pair, ensuring that they cover both the gloves and the sleeves. Ensure that the sleeves and the gloves form a complete layer of coverage. If necessary, try a lab coat or coveralls with longer sleeves or use disposable sleeve extensions.</p><p><strong>Donning Respirators</strong></p><p>Prior to donning, if using a P100 respirator, verify that the proper cartridges are secured in place. Now, position the P100 or N100 respirator in the palm of your hand with the nose piece towards your fingers so that the straps hang below your hand. Bring the respirator up to your face and position it below your chin and over your nose. With your other hand, pull the straps over your head so the bottom strap is below your ear and the top strap is above your ear. Using your fingertips, mold the metal strip to the shape of your nose. Every user shall be properly fit tested on the size and model of respirator used.</p><p>After you have secured your respirator, it is important that you perform a seal check. This is accomplished by placing your hands over the respirator and taking a quick breath to see if the respirator seals to your face. There should not be any air entering the respirator from the edges. Re-adjust the respirator if necessary.</p><p><strong>Donning Safety Goggles</strong></p><p>Finally, once your respirator is secure, put on your safety goggles. You are now ready to conduct examination activities.</p>",
+      "transcriptLinkButton": "Click here if you are having trouble viewing the above video.",
+      "transcriptLink": "http://apollo.omega.dce-eir.net/contentserverdav/nodes/14550000/Donning_EN.mp4"
+    }
+  },
+  {
+    "_id": "5984ab9bdfff9d880ff3705a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5984ab96dfff9d880ff37059",
+    "body": "<div class=\"multiple-cols transparent-cols warning\"><div class=\"important-note\"><img alt=\"Important note\" src=\"course/en/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png\" /></div><div><p>Fit safety goggles so that you do not have to adjust during exam. Touching the goggles during examination can lead to cross-contamination. If you have to adjust your safety goggles during the examination, stop the exam, remove outer gloves, adjust goggles and apply new outer gloves.</p></div></div>",
+    "displayTitle": "",
+    "title": "Safely donning your PPE",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5984acd8dfff9d880ff3705c",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5984ac96dfff9d880ff3705b",
+    "body": "<p>Your turn.</p><p>This activity will help you remember the correct sequence for donning your PPE.</p>",
+    "displayTitle": "",
+    "title": "Review activity",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the correct step from the drop down list. Select each answer option only once. ",
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Step 1",
+        "_options": [
+          {
+            "text": "Don and adjust safety goggles.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Don and check respirator",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on disposable coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on long gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on regular size gloves.",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Step 2",
+        "_options": [
+          {
+            "text": "Don and adjust safety goggles.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Don and check respirator",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on disposable coveralls/lab coat.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Put on long gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on regular size gloves.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 3",
+        "_options": [
+          {
+            "text": "Don and adjust safety goggles.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Don and check respirator",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on disposable coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on long gloves.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Put on regular size gloves.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 4",
+        "_options": [
+          {
+            "text": "Don and adjust safety goggles.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Don and check respirator",
+            "_isCorrect": true
+          },
+          {
+            "text": "Put on disposable coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on long gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on regular size gloves.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 5",
+        "_options": [
+          {
+            "text": "Don and adjust safety goggles.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Don and check respirator",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on disposable coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on long gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Put on regular size gloves.",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p>Correct</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": "<p>Incorrect, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect, try again.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Retry",
+        "ariaLabel": "Retry"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5984b210dfff9d880ff37061",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5984b202dfff9d880ff37060",
+    "body": "<p>When you need to remove, adjust or change your PPE it is equally important to follow the required steps in sequence to minimize the potential for exposure and to prevent cross contamination.&nbsp;</p><p>Watch the video to review each step in sequence. Follow the instructions carefully and remember the sequence of steps in order to protect your own and your co-workers&rsquo; safety!</p><ol><li>Remove and dispose of outer gloves.</li><li>Remove and dispose of the coveralls/lab coat.</li><li>Remove safety goggles.</li><li>Remove the respirator without touching the front and, if you used the disposable kind, dispose of it.</li><li>Remove and dispose of the inner gloves.</li><li>Wash hands with soap and water.</li></ol></div></div>",
+    "displayTitle": "",
+    "title": "Safely doffing your PPE",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inline_button",
+    "_component": "media",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "course/en/assets/eabf36272c6a94b50cae1500c5121e5420e402da.mp4",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "50%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": true,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "<p style=\"margin-left:15.65pt;\"><strong>Doffing Personal Protective Equipment</strong></p><p style=\"margin-left:15.65pt;\">When removing your personal protective equipment, it is important to do so carefully so that you do not accidentally contaminate yourself, nearby personnel or the immediate environment.</p><p style=\"margin-left:15.65pt;\"><strong>Removing Gloves</strong></p><p style=\"margin-left:15.65pt;\">To begin, remove your outer gloves using the &ldquo;Tuck and Roll&rdquo; technique. With one hand, pinch the outside of the glove at the wrist and peel the glove towards the fingers turning the glove inside out. With the dirty glove hand, bunch up the dirty glove. With the clean hand, place the fingers underneath the cuff of the dirty glove and peel towards the fingers while turning inside out. At this point, the gloves will be inside out as one piece. Dispose of the gloves in the designated waste bin.</p><p style=\"margin-left:15.65pt;\"><strong>Doffing Lab Coat</strong></p><p style=\"margin-left:15.65pt;\">Remove your lab coat or coveralls, turning them inside out as they are being removed. Dispose of all used personal protective equipment in the designated waste bin.</p><p style=\"margin-left:15.65pt;\"><strong>Doffing Safety Goggles and Respirator</strong></p><p style=\"margin-left:15.65pt;\">Remove your safety goggles and place them aside for cleaning. Now, grasp the bottom strap of the respirator and pull it over your head followed by the top strap. The disposable respirator can now be safely placed in the designated waste bin. If using a reusable respirator, clean and store the respirator according to the manufacturer&rsquo;s instructions. Respirator cartridges should be disposed of according to CBSA standard operating procedures. Do not touch the front of the respirator when you are removing it as it may be contaminated.</p><p style=\"margin-left:15.65pt;\"><strong>Doffing Second Layer of Gloves </strong></p><p style=\"margin-left:15.65pt;\">Having removed your respirator and goggles, use the tuck and roll technique to remove your inner gloves.</p><p style=\"margin-left:15.65pt;\">With one hand, pinch the outside of the glove at the wrist, peel the glove towards the fingers turning the glove inside out. With the glove hand, bunch up the glove. With the clean hand, place your fingers under the cuff of the dirty glove and peel towards the fingers while turning it inside out. At this point, both gloves will be inside out as one piece. Dispose of the gloves in the designated waste bin.</p><p style=\"margin-left:15.65pt;\"><strong>Wash your hands</strong></p><p style=\"margin-left:15.65pt;\">Once all personal protective equipment has been removed, be sure to wash your hands.</p>",
+      "transcriptLinkButton": "Click here if you are having trouble viewing the above video.",
+      "transcriptLink": "http://apollo.omega.dce-eir.net/contentserverdav/nodes/14550000/Doffing_EN.mp4"
+    }
+  },
+  {
+    "_id": "5984b850dfff9d880ff37066",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5984b850dfff9d880ff37065",
+    "body": "<p>Your turn.</p><p>What is the correct sequence for safely removing your PPE?</p>",
+    "displayTitle": "",
+    "title": "Review activity",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select the correct step from the drop down list.",
+    "_attempts": -1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Step 1",
+        "_options": [
+          {
+            "text": "Remove and dispose of outer gloves.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Remove and dispose of coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of inner gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove respirator and dispose of it if applicable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove safety goggles. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wash hands with soap and water.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 2",
+        "_options": [
+          {
+            "text": "Remove and dispose of outer gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of coveralls/lab coat.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Remove and dispose of inner gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove respirator and dispose of it if applicable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove safety goggles. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wash hands with soap and water.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 3",
+        "_options": [
+          {
+            "text": "Remove and dispose of outer gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of inner gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove respirator and dispose of it if applicable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove safety goggles. ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Wash hands with soap and water.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 4",
+        "_options": [
+          {
+            "text": "Remove and dispose of outer gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of inner gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove respirator and dispose of it if applicable",
+            "_isCorrect": true
+          },
+          {
+            "text": "Remove safety goggles. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wash hands with soap and water.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 5",
+        "_options": [
+          {
+            "text": "Remove and dispose of outer gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of inner gloves.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Remove respirator and dispose of it if applicable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove safety goggles. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wash hands with soap and water.",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 6",
+        "_options": [
+          {
+            "text": "Remove and dispose of outer gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of coveralls/lab coat.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove and dispose of inner gloves.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove respirator and dispose of it if applicable",
+            "_isCorrect": false
+          },
+          {
+            "text": "Remove safety goggles. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wash hands with soap and water.",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p>Correct</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": "<p>Incorrect, try again.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Incorrect, try again.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "Retry",
+        "ariaLabel": "Retry"
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5984bc76dfff9d880ff3706e",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5984bc5cdfff9d880ff3706d",
+    "body": "<p>You have reviewed how to safely don and doff your PPE in order to minimize the potential of exposure of suspected HTS and prevent cross contamination.</p><p>Now you are ready to continue to the final quiz. The quiz provides you with the opportunity to test your knowledge and recall some important details of the safe donning and doffing procedure.</p><p style=\"text-align:center\"><a class=\"button\" href=\"#59899330834318c02eefff19\" style=\"text-decoration:none;color:white;\">Continue to the final quiz</a></p>",
+    "displayTitle": "",
+    "title": "Conclusion",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5984bc94dfff9d880ff3706f",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5984bc5cdfff9d880ff3706d",
+    "body": "",
+    "displayTitle": "",
+    "title": "Conclusion",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0d3f7cbaa9fab50d41346fc7a0cf65aa40d55be8.jpg",
+      "small": "course/en/assets/0d3f7cbaa9fab50d41346fc7a0cf65aa40d55be8.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "598997fe834318c02eefff1d",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899331834318c02eefff1b",
+    "body": "<p>If an officer has been fit tested on an N95 respirator, there is no need to be fit tested on an N100 or P100 respirator.</p>",
+    "displayTitle": "",
+    "title": "Question 1",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5989995e834318c02eefff20",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5989995e834318c02eefff1f",
+    "body": "<p>The following personal protective equipment is required for conducting inspections in the designated safe examination area:</p>",
+    "displayTitle": "",
+    "title": "Question 2",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Check all that apply.",
+    "_items": [
+      {
+        "text": "Nitrile gloves (9 ½”-9 ¾” & 12”)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Safety Goggles",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Ear plugs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "P100 or N100 Respirator",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lab coat or Tyvek coveralls",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Steel toe shoes",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 6,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59899aa0834318c02eefff22",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899a86834318c02eefff21",
+    "body": "<p>The proper sequence for removing nitrile gloves using the tuck and roll technique is:</p>",
+    "displayTitle": "",
+    "title": "Question 3",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Step 1",
+        "_options": [
+          {
+            "text": "Dispose of the gloves in the designated hazardous waste bin.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Peel glove towards fingers turning the glove inside out and bunch it up. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Pinch the outside of the glove at the wrist,",
+            "_isCorrect": true
+          },
+          {
+            "text": "Place fingers under the cuff of the glove and peel towards fingers while turning it inside out. ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 2",
+        "_options": [
+          {
+            "text": "Dispose of the gloves in the designated hazardous waste bin.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Peel glove towards fingers turning the glove inside out and bunch it up. ",
+            "_isCorrect": true
+          },
+          {
+            "text": "Pinch the outside of the glove at the wrist,",
+            "_isCorrect": false
+          },
+          {
+            "text": "Place fingers under the cuff of the glove and peel towards fingers while turning it inside out. ",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Step 3",
+        "_options": [
+          {
+            "text": "Dispose of the gloves in the designated hazardous waste bin.",
+            "_isCorrect": false
+          },
+          {
+            "text": "Peel glove towards fingers turning the glove inside out and bunch it up. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Pinch the outside of the glove at the wrist,",
+            "_isCorrect": false
+          },
+          {
+            "text": "Place fingers under the cuff of the glove and peel towards fingers while turning it inside out. ",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Step 4",
+        "_options": [
+          {
+            "text": "Dispose of the gloves in the designated hazardous waste bin.",
+            "_isCorrect": true
+          },
+          {
+            "text": "Peel glove towards fingers turning the glove inside out and bunch it up. ",
+            "_isCorrect": false
+          },
+          {
+            "text": "Pinch the outside of the glove at the wrist,",
+            "_isCorrect": false
+          },
+          {
+            "text": " Place fingers under the cuff of the glove and peel towards fingers while turning it inside out. ",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59899b97834318c02eefff27",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899b97834318c02eefff26",
+    "body": "<p>When removing the respirator, hold the front of the respirator in the palm of your hand, then grasp the straps with the other hand and pull them over your head</p>",
+    "displayTitle": "",
+    "title": "Question 4",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59899bd8834318c02eefff2a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899bd8834318c02eefff29",
+    "body": "<p>What is the last step in the procedure to safely remove your PPE?</p>",
+    "displayTitle": "",
+    "title": "Question 5",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Wash your hands with soap and water.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Wash your safety goggles",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Remove and dispose of the inner gloves",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Remove and dispose of the lab coat",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59899c3f834318c02eefff2e",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899c3f834318c02eefff2d",
+    "body": "<p>Select the correct statement.</p>",
+    "displayTitle": "",
+    "title": "Question 6",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "If you need to adjust your safety goggles during an examination, grab the edge of the goggles carefully to avoid touching your skin. ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "If you need to adjust your safety goggles during an examination, remove your outer gloves, adjust the goggles and put on a clean pair of outer gloves, ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59899c7d834318c02eefff31",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899c7d834318c02eefff30",
+    "body": "<p>The sleeves of your lab coat don&rsquo;t quite reach your wrists. What should you do?</p>",
+    "displayTitle": "",
+    "title": "Question 7",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Try and tuck the coat sleeves into the inner gloves so that they don’t pull up",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Don a pair of sleeve extensions or a lab coat with longer sleeves",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Use the long nitrile gloves as inner gloves",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Don’t worry about it because the long outer gloves will probably cover the sleeves anyway. ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59899d02834318c02eefff34",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899d02834318c02eefff33",
+    "body": "",
+    "displayTitle": "",
+    "title": "Question 8",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select the correct statement.",
+    "_items": [
+      {
+        "text": "If using a reusable P100 respirator, keep it in a sealed bag and clean it at least once a week.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "If using a reusable P100 respirator, clean it according to manufacturer’s instructions after each use.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59899d68834318c02eefff37",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59899d4a834318c02eefff36",
+    "body": "",
+    "displayTitle": "",
+    "title": "Results",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "assessmentResults",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_isVisibleBeforeCompletion": false,
+    "_assessmentId": "FinalQuiz",
+    "_retry": {
+      "button": "Retry Quiz",
+      "feedback": ""
+    },
+    "_completionBody": "Your score: {{{scoreAsPercent}}}% {{{feedback}}}",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "Result: You did not pass the course. Select “retry quiz” to try again, or select the Home menu to go back to the course.",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 80,
+        "feedback": "Result: Congratulations! You have successfully completed the course.",
+        "_allowRetry": false,
+        "_classes": ""
+      }
+    ]
+  },
+  {
+    "_id": "5989fa8a858250042dc385f6",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5989fa76858250042dc385f5",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bd60346624ba96f8dd8dc6b7d9a7d5194a05fcfe.jpg",
+      "small": "course/en/assets/bd60346624ba96f8dd8dc6b7d9a7d5194a05fcfe.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "598aee05becff9ec2ef9c2f4",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "598aedf1becff9ec2ef9c2f3",
+    "body": "<div class=\"multiple-cols transparent-cols warning\"><div class=\"important-note\"><img alt=\"Important note\" src=\"course/en/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png\" /></div><div><p>Put on clean gloves to wash the goggles and the reusable respirator. Ensure to always wear gloves when handling any contaminated PPE or other equipment.</p><p>Change gloves as needed.</p></div></div>",
+    "displayTitle": "",
+    "title": "Safely doffing your PPE",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "598af021becff9ec2ef9c2f6",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "598af00abecff9ec2ef9c2f5",
+    "body": "<p>In order to update your training history, you must confirm that you have completed this online course.</p><p>Please follow these steps below: &nbsp;</p><ol><li>Close this window by clicking the <strong>Log Off</strong>&nbsp;button to return to the course description page.</li><li>Click the <strong>Refresh</strong>&nbsp;link at the bottom of the page in order to update your completion progress.</li><li>Click the <strong>Confirm Participation</strong> link located under the <strong>Confirm Participation</strong> <strong>section.</strong></li></ol>",
+    "displayTitle": "",
+    "title": "Confirm participation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "To confirm participation, use the link in the Confirm Participation Section in My Learning.",
+      "large": "course/en/assets/f9265151bacda2d2dab2708687f37f114c6255f2.JPG",
+      "small": "course/en/assets/f9265151bacda2d2dab2708687f37f114c6255f2.JPG",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5992d955b24ad9bc3662d494",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5992d951b24ad9bc3662d493",
+    "body": "",
+    "displayTitle": "Important",
+    "title": "Important",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png",
+      "small": "course/en/assets/45e4acbed67d83f73860be566e78bcc5a91a6c9b.png",
+      "attribution": ""
+    }
+  }
+]
