@@ -1,0 +1,2651 @@
+{
+  "6acb533e5f044c9d064ce34205a3fd42798fd4a8.png": {
+    "title": "Wrong Answer",
+    "description": "Wrong Answer",
+    "tags": [
+      {
+        "title": "Asset",
+        "_id": "5be2e1fafc01b2191c74a5dc"
+      },
+      {
+        "title": "Wrong",
+        "_id": "5be2e25bfc01b2191c74a5e3"
+      },
+      {
+        "title": "assessment",
+        "_id": "5c59e43d7347f8127c03ede5"
+      },
+      {
+        "title": "quiz",
+        "_id": "5c59e4397347f8127c03ede4"
+      },
+      {
+        "title": "test",
+        "_id": "5c59e4407347f8127c03ede6"
+      },
+      {
+        "title": "pass",
+        "_id": "5c59e4477347f8127c03ede7"
+      },
+      {
+        "title": "fail",
+        "_id": "5c59e4487347f8127c03ede8"
+      },
+      {
+        "title": "submit",
+        "_id": "5c59e4527347f8127c03edf2"
+      },
+      {
+        "title": "review",
+        "_id": "5c59e4be7347f8127c03edf3"
+      }
+    ]
+  },
+  "9192b513bd7cf0081b0ba56fca593a5c7fb95ed7.png": {
+    "title": "Stars",
+    "description": "Stars",
+    "tags": [
+      {
+        "title": "Answer",
+        "_id": "5be2e272fc01b2191c74a5e6"
+      },
+      {
+        "title": "quiz",
+        "_id": "5c59e4397347f8127c03ede4"
+      },
+      {
+        "title": "assessment",
+        "_id": "5c59e43d7347f8127c03ede5"
+      },
+      {
+        "title": "test",
+        "_id": "5c59e4407347f8127c03ede6"
+      },
+      {
+        "title": "pass",
+        "_id": "5c59e4477347f8127c03ede7"
+      },
+      {
+        "title": "fail",
+        "_id": "5c59e4487347f8127c03ede8"
+      },
+      {
+        "title": "star",
+        "_id": "5c59e44c7347f8127c03edf1"
+      },
+      {
+        "title": "submit",
+        "_id": "5c59e4527347f8127c03edf2"
+      }
+    ]
+  },
+  "f9265151bacda2d2dab2708687f37f114c6255f2.JPG": {
+    "title": "Confirm Participation",
+    "description": "Confirm Participation",
+    "tags": []
+  },
+  "854b5a6252af236d0d1c3f77be7f8b292b152ba9.jpg": {
+    "title": "distress_on",
+    "description": "distress",
+    "tags": [
+      {
+        "title": "it-te",
+        "_id": "5c767f9212fbc83378e1a73b"
+      }
+    ]
+  },
+  "9efb6077d3b981b5a7d4487eec6d7164fd249001.jpg": {
+    "title": "2_1.jpg",
+    "description": "contempt_on",
+    "tags": []
+  },
+  "66b7a38e3aa9100be930b2d25f60af3bc8a8c022.jpg": {
+    "title": "2_2.jpg",
+    "description": "contempt_off",
+    "tags": []
+  },
+  "b84d98627769ca3ddac8f7ce64253b9500096d1f.jpg": {
+    "title": "distress_on",
+    "description": "distress_on",
+    "tags": []
+  },
+  "fc7aa33b35cfa20c815b5355986ecdc9cd2cc591.jpg": {
+    "title": "3_2.jpg",
+    "description": "distress_off",
+    "tags": []
+  },
+  "53ec008ac0d3b0b27a0089b41aebaf52a5205e79.jpg": {
+    "title": "4_1.jpg",
+    "description": "disgust_on",
+    "tags": []
+  },
+  "9ba6ba2e94b58b7b3768996545ba5c53a64365bc.jpg": {
+    "title": "4_2.jpg",
+    "description": "disgust_off",
+    "tags": []
+  },
+  "789f4a01e662b04c52cc7b391b37013ce5c1c1a8.jpg": {
+    "title": "5_1.jpg",
+    "description": "anger on",
+    "tags": []
+  },
+  "8dccb29d28f129f84a8b6c9c1f76c7e35fddb7d7.jpg": {
+    "title": "5_2.jpg",
+    "description": "anger off",
+    "tags": []
+  },
+  "d5662a30d9183e9c828a5bd8a7626a46e9ab994d.jpg": {
+    "title": "6_1.jpg",
+    "description": "fear on",
+    "tags": []
+  },
+  "c0aaeee7eedf732b05e8dd8f6de40d58a5cdc60b.jpg": {
+    "title": "6_2.jpg",
+    "description": "fear off",
+    "tags": []
+  },
+  "379cfd204bb642b8c25c567862fe048cc8229c58.jpg": {
+    "title": "7_1.jpg",
+    "description": "contempt on",
+    "tags": []
+  },
+  "acfc93662f3f312636e88212cb3095b41196e519.jpg": {
+    "title": "8_1.jpg",
+    "description": "disgust on",
+    "tags": []
+  },
+  "d129a7443ae94fe93da532c49e4f06a66b5f12b7.jpg": {
+    "title": "8_2.jpg",
+    "description": "disgust off",
+    "tags": []
+  },
+  "47ef3c2033e390cebadfb92b2ba343cbec662a84.jpg": {
+    "title": "9_1.jpg",
+    "description": "fear on",
+    "tags": []
+  },
+  "e1368f248060b2af0d35bb6d5a21ec5fec805d5d.jpg": {
+    "title": "9_2.jpg",
+    "description": "fear off",
+    "tags": []
+  },
+  "a784ba1579404c6d1176b8dc69eda66c226eb7d0.jpg": {
+    "title": "10_1.jpg",
+    "description": "anger on",
+    "tags": []
+  },
+  "d3d58acb74057cf3822686adfeb09425cea43e5f.jpg": {
+    "title": "10_2.jpg",
+    "description": "anger off",
+    "tags": []
+  },
+  "e0bbd3d13130d622e3e4719a3f2e07c838904dac.jpg": {
+    "title": "11_1.jpg",
+    "description": "happiness on",
+    "tags": []
+  },
+  "59cadcfac6acd80a41adcfd7bd0a33377c78a563.jpg": {
+    "title": "11_2.jpg",
+    "description": "happiness off",
+    "tags": []
+  },
+  "3171965ba75dfcb57421cf54b6bc227c9dc3792b.jpg": {
+    "title": "12_1.jpg",
+    "description": "contempt on",
+    "tags": []
+  },
+  "6c88ca41cb3156c65585b8ca39e42e932d16563c.jpg": {
+    "title": "12_2.jpg",
+    "description": "contempt off",
+    "tags": []
+  },
+  "7f0352a097d0d680a16c53664fa960ffa59eb97a.jpg": {
+    "title": "13_1.jpg",
+    "description": "distress on",
+    "tags": []
+  },
+  "04a6f6271d955bc53cacfab6c7c80ae461fbbe4c.jpg": {
+    "title": "14_1.jpg",
+    "description": "surprise on",
+    "tags": []
+  },
+  "a52e0b32ba285a5a599ad9032b7de22f8d9af37a.jpg": {
+    "title": "14_2.jpg",
+    "description": "surprise off",
+    "tags": []
+  },
+  "db8a175d8b0a26afbd402f60bfd222c2625cd3d9.jpg": {
+    "title": "15_1.jpg",
+    "description": "fear on",
+    "tags": []
+  },
+  "8655b428acd29a30878dbf5a232fb04db76add90.jpg": {
+    "title": "separator_2.jpg",
+    "description": "separator white",
+    "tags": []
+  },
+  "deacb10268889089c54fc8dfd8c8c1837d9caa07.jpg": {
+    "title": "separator.jpg",
+    "description": "separator",
+    "tags": []
+  },
+  "ef0ad0aa6e65ba62b3e6e1ad13202d08f6dae6ca.jpg": {
+    "title": "Top Menu Bar",
+    "description": "Top Menu Bar",
+    "tags": [
+      {
+        "title": "Top Menu Bar",
+        "_id": "5cc31fd8bc06ca27b846a48a"
+      }
+    ]
+  },
+  "b0ba8d5ad0f22bafbde8b6df5ae477a6844e8728.jpg": {
+    "title": "Header Transition2",
+    "description": "Header Transition2",
+    "tags": [
+      {
+        "title": "R1054-P",
+        "_id": "5d5558bac7d4112bf4717554"
+      },
+      {
+        "title": "eManifest",
+        "_id": "5d5558bec7d4112bf4717555"
+      }
+    ]
+  },
+  "7f803bd65a22fa341a723f9998c1648a1eebe936.png": {
+    "title": "eManifest Banner",
+    "description": "eManifest Banner",
+    "tags": [
+      {
+        "title": "R1054-P",
+        "_id": "5d5558bac7d4112bf4717554"
+      },
+      {
+        "title": "eManifest",
+        "_id": "5d5558bec7d4112bf4717555"
+      }
+    ]
+  },
+  "a8813c7388db939f28fe8484439a11f022ef0a27.png": {
+    "title": "Interview Steps",
+    "description": "Interview Steps",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "d630b8aa6aa3c0d72041f172a4e0cd4f119c0827.png": {
+    "title": "Book",
+    "description": "Book",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "dd83fa9aa7f3367a9f0f3bffa3e76ea31db338f6.png": {
+    "title": "Turtle Rabbit",
+    "description": "Turtle Rabbit",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "41819d931d3068b5e32316abef9a65bbc9bca9ff.png": {
+    "title": "Volume",
+    "description": "Volume",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "10f6706a3015697b804ef4d81f580a72b8849ed2.png": {
+    "title": "TheMindsEye",
+    "description": "TheMindsEye",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "cb0099340ad4d33ee9deaf98141918ae5986fa96.png": {
+    "title": "Visual",
+    "description": "Visual",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "75db092ab6bed06983e694ca756502699cd897ca.png": {
+    "title": "Auditory",
+    "description": "Auditory",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "e6f8e9606af0509866cfaa93d83f00f6decfa1f5.png": {
+    "title": "Visual",
+    "description": "Visual",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "10d59ed0d0c95c727867bbc51b9dd95df1ed3f6d.png": {
+    "title": "Auditory",
+    "description": "Auditory",
+    "tags": [
+      {
+        "title": "S5053",
+        "_id": "5d935b5a2b3fdf2c2488d257"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "79b120fb181f437aaf381656fcaf4f66d67b4494.png": {
+    "title": "Feeling",
+    "description": "Feeling",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "01cb777036b806466371b5a9171c9ad165855661.png": {
+    "title": "KnowledgeCheck2_05",
+    "description": "KnowledgeCheck2_05",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "01ccdd4c03b985ebbaf74cf85b126ab06dbfee99.png": {
+    "title": "6_LipBlocking",
+    "description": "6_LipBlocking",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "03ca2fa1ac771ac002eed15df9ee4bf5f363b47c.png": {
+    "title": "10_BoredHands",
+    "description": "10_BoredHands",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "07274e9d0fcf111fa53065010160ec86cc5f6af6.png": {
+    "title": "01_ArmsCrossed",
+    "description": "01_ArmsCrossed",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "097680384a79919eaadbc3a24fa8c1e8f7b8a3b4.gif": {
+    "title": "14_KnowledgeCheckGIF",
+    "description": "14_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "0c5d1d6b3ca11f192a1f5ebea7ac38c2e67eeebb.png": {
+    "title": "SallyQuestion1",
+    "description": "SallyQuestion1",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "0c6b5f3b94785264adf65ba1184f3eeb7e655aab.png": {
+    "title": "KnowledgeCheckLeft",
+    "description": "KnowledgeCheckLeft",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "0fe845a69ceffc248052eb52487d7aeebaa842af.png": {
+    "title": "Intro",
+    "description": "Intro",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "10ed80ac06ad35a416119ba3aefd79642ba7079f.png": {
+    "title": "DominantPerceptual",
+    "description": "DominantPerceptual",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "10facdb69429d88104ca99a25363dd98a21d856b.png": {
+    "title": "Hourglass",
+    "description": "Hourglass",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "116f98c55621645951c4ce07dc09b87050ec8150.png": {
+    "title": "ScriptMemory",
+    "description": "ScriptMemory",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "1478a71fef09284de34c232d79e23fd58280dcb2.gif": {
+    "title": "6_KnowledgeCheckGIF",
+    "description": "6_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "14ecc863484cc2893d83d3674fce1d220d0ef4d7.png": {
+    "title": "Posture01",
+    "description": "Posture01",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "19819b5c954a56a68934038fb8aa8468877deafe.png": {
+    "title": "2_Barriers",
+    "description": "2_Barriers",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "1a94a256f182cf780922a686bcb3aacd8be969e3.gif": {
+    "title": "9_KnowledgeCheckGIF",
+    "description": "9_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "1db27be93948458153002e4ab79a140b58fcb397.png": {
+    "title": "KnowledgeCheck2_01",
+    "description": "KnowledgeCheck2_01",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "1e16fcdfc9c36f0b5de6e5372b1e7682c8ba1c49.png": {
+    "title": "1_Anger",
+    "description": "1_Anger",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "1eab8fd6a6e39719775f0121ba854165551497b5.png": {
+    "title": "PacingKeyToBuildingRapport",
+    "description": "PacingKeyToBuildingRapport",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "219179a05d0beae4a6ecdf92e013c6228fca7bcc.png": {
+    "title": "AnnaQuestion1",
+    "description": "AnnaQuestion1",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "21b9d5fb100e6e9bbbf5013d85d00e414d24e9cf.png": {
+    "title": "WhenNotToPace",
+    "description": "WhenNotToPace",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "220056aa271c8dd49ac8b6cfd1418103dbb61e30.gif": {
+    "title": "2_KnowledgeCheckGIF",
+    "description": "2_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2349479125409542e1f113159272c4c04236a6c3.png": {
+    "title": "7_Happiness",
+    "description": "7_Happiness",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "234ed65e20b2e1b8c56c01237d342130f4783b3a.png": {
+    "title": "5_KnowledgeCheck",
+    "description": "5_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "248cd70a9c6669dcef587a0900e4372851b767f9.png": {
+    "title": "1_BodyPosture_1",
+    "description": "1_BodyPosture_1",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2523d79decdbd6fe5bb1d8577cda4ebf43ce0db9.png": {
+    "title": "KnowledgeCheck2_04",
+    "description": "KnowledgeCheck2_04",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "27a78942566d4c2ad221fc6a4b939788df962ac3.png": {
+    "title": "TyingItTogether",
+    "description": "TyingItTogether",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "27e94a72e00100b10edb19162cd06ebb4deae5bf.png": {
+    "title": "BodyLanguageRules",
+    "description": "BodyLanguageRules",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2a6e269df491e365315e6d5d0228c5d1e996a910.png": {
+    "title": "15_KnowledgeCheck",
+    "description": "15_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2bf2d5088c9890b5648e1f26ebbc70d3ea0b23d7.png": {
+    "title": "09_RestrainedFeet",
+    "description": "09_RestrainedFeet",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2bff9c723fb9ff8ec8cb04a230f16df35c0c1c61.png": {
+    "title": "AcknoledgeFeeling_2",
+    "description": "AcknoledgeFeeling_2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2c2ffc781294f675c94fadeaa43ee07d0f3e3611.png": {
+    "title": "RoleOfRapport",
+    "description": "RoleOfRapport",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2f897e99a3b292c38d72bd1c1098cef421a83ccf.png": {
+    "title": "CALM",
+    "description": "CALM",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2fa40292cb363e39f5dcb6b29e03decf18bccac2.png": {
+    "title": "Posture02",
+    "description": "Posture02",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "2fea021879a443a2c2e7481936478352edc0f9ee.png": {
+    "title": "FacialExpressions",
+    "description": "FacialExpressions",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "3019223dda601c0e1961189f49c7b218e2a14a78.png": {
+    "title": "FourPhasesGoodInterview_04",
+    "description": "FourPhasesGoodInterview_04",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "36b8cfb7a6841f9a57fe4c13b9a352d2c7f5b7dc.gif": {
+    "title": "12_KnowledgeCheckGIF",
+    "description": "12_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "3813143a8cfb5cc607ee0cab240e45d98ab0e6ce.gif": {
+    "title": "13_KnowledgeCheckGIF",
+    "description": "13_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "3f44c95dba3cdcb8223384a70e0b90cb0081b0f8.png": {
+    "title": "04_IndependentLegs",
+    "description": "04_IndependentLegs",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "42193062b6196374e86e683756a6724b1fb7544a.png": {
+    "title": "Trust",
+    "description": "Leading",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "42419d2351511b826044a6ab65466edb1fb19f4f.png": {
+    "title": "Identify",
+    "description": "Identify",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "432954b5b1bd318d83d521bc8d03b19ecbe674b6.png": {
+    "title": "08_HonestHands",
+    "description": "08_HonestHands",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "43e50e4ea771837f8840ac992d129f2f9c505a6a.png": {
+    "title": "InterpretingFacialExpressions",
+    "description": "InterpretingFacialExpressions",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "4ac87860502f1919fe84952a35a13de78a23f58d.png": {
+    "title": "02_ArmsAkimbo",
+    "description": "02_ArmsAkimbo",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "4b6b4271878129259fb53350d45afd8ab97722c0.png": {
+    "title": "InterpretingBodyLanguage",
+    "description": "InterpretingBodyLanguage",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "4b7604c10c5b7c92141956335b85a8e3d7471e22.png": {
+    "title": "MicrophoneClusters",
+    "description": "MicrophoneClusters",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "4f374e297c33ce98102af7bebe4edeb299e1b68d.png": {
+    "title": "TechniqueToCalm_01",
+    "description": "TechniqueToCalm_01",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "4fa714be3cbf1ece2e66fa24dbe7d55fb2f6934b.gif": {
+    "title": "15_KnowledgeCheckGIF",
+    "description": "15_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "50b16325ef16575ebee6c1e4777f29d21f6cdb9d.png": {
+    "title": "EmmanuelleQuestion1",
+    "description": "EmmanuelleQuestion1",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5142a7fb60f104996eb985bfb39f6e6191f9dbc5.png": {
+    "title": "3_HandToFace",
+    "description": "3_HandToFace",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "54a76d9660b6433373f3f3b2c20cc3762a5fe5e7.png": {
+    "title": "05_DominantLegs",
+    "description": "05_DominantLegs",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "55dd22ce01f55bbe49a6141f4f3614efd536b4df.png": {
+    "title": "14_KnowledgeCheck",
+    "description": "14_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5a236adcdffdd9105c4995d423159b4a18f1e538.png": {
+    "title": "ActiveListening",
+    "description": "ActiveListening",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5b4d4423eeeed8a73a01b0558d27f54dc385c4a9.png": {
+    "title": "OutcomePacingRapport",
+    "description": "OutcomePacingRapport",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5b8752763a998d82c0a5dbaa94bb454c6693c4ac.png": {
+    "title": "ScaredPerson",
+    "description": "ScaredPerson",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5cc95fdc5607ec5a48221253194c0d6d5c298dd1.png": {
+    "title": "4_KnowledgeCheck",
+    "description": "4_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5e340f7dda01573d36d17ebdf685dfeaa85d7175.png": {
+    "title": "8_KnowledgeCheck",
+    "description": "8_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5fa79bda014586501c2d35242fdf8343817c1fb7.png": {
+    "title": "3_Disgust",
+    "description": "3_Disgust",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "5fef0507559544802b3c658e6d9c74cf61a66343.png": {
+    "title": "Mirror",
+    "description": "Mirror",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "641462360cf242667584748ff684bd00ffbe1f61.png": {
+    "title": "UnderstandYou",
+    "description": "UnderstandYou",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "653dac10335e68cb1e29dc182b67aef3f8a194d0.png": {
+    "title": "03_ArmsOpen",
+    "description": "03_ArmsOpen",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "6cdddba81a9365d38f6fd746d4efb34b07704f07.png": {
+    "title": "11_ConfidentHands",
+    "description": "11_ConfidentHands",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "6d9c3118c1b184f53809ec2e5298efd9aa5fd6f2.png": {
+    "title": "Conflict",
+    "description": "Conflict",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "6dbc1787776e67feafe2e926e894d300da5b9d06.png": {
+    "title": "4_Distress",
+    "description": "4_Distress",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "726f9f31965ca8c2a18cb7bada6200bb4ff94369.png": {
+    "title": "Scenario1_Sally",
+    "description": "Scenario1_Sally",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "727d717400b42f4a4fb36a742403652b9c5a75d4.png": {
+    "title": "Book",
+    "description": "Book",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "767e8fefe6bbd34779fcd9e2e0cc7beb9c244d62.png": {
+    "title": "FourPhasesGoodInterview_02_2",
+    "description": "FourPhasesGoodInterview_02_2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "77aaf9b608cb78839e6f6c7947c7a159834fa8e7.png": {
+    "title": "Posture_Reflective",
+    "description": "Posture_Reflective",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "78f7a08c00738ad96f3d090bd2755ed079867926.png": {
+    "title": "TechniqueToCalm_03",
+    "description": "TechniqueToCalm_03",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "7df3f873410714daa35bad1c0ebd50d0dfa0793d.png": {
+    "title": "FourPhasesGoodInterview_04_2",
+    "description": "FourPhasesGoodInterview_04_2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "7f954eeb2cf4ab7d8655733fc71a63a25e235206.png": {
+    "title": "1_KnowledgeCheck",
+    "description": "1_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "80841b42cee9759075b9fedfc3aa05bb5eefd57e.png": {
+    "title": "TurtleRabbit",
+    "description": "TurtleRabbit",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "861b22f9ffdba434485efbc555ff07f6960dd254.png": {
+    "title": "Clusters",
+    "description": "Clusters",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "86a113330df5ae19ab5ff3d4acb8a2611c8eacb9.png": {
+    "title": "Headset",
+    "description": "Headset",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "88b98ae29c274007b87562840ed81bc07f1fca9f.png": {
+    "title": "ListenActively",
+    "description": "ListenActively",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "8b43b754d42460f263f938e2375e5d9fb2c94179.png": {
+    "title": "Anna",
+    "description": "Anna",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "8edcb6e5e895b29ba5f244426b62426586056f38.png": {
+    "title": "FourPhasesGoodInterview_03",
+    "description": "FourPhasesGoodInterview_03",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "8f03bf9033f866023a83b696559901bceb4c7aca.png": {
+    "title": "PeopleUnderstand",
+    "description": "PeopleUnderstand",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "8fdd8296dd25d5db7474983ba8c1d493e17380ea.gif": {
+    "title": "1_KnowledgeCheckGIF",
+    "description": "1_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "91de13d27b1de052095511547be5da8bcd7cc034.png": {
+    "title": "TechniqueToCalm_02",
+    "description": "TechniqueToCalm_02",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "94257e65690b4c9725d0c9b5cc5bbaf7bb89b3c1.png": {
+    "title": "ThingsToAvoid",
+    "description": "ThingsToAvoid",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "9efe453d18512c0dae39f6e50fc668f43a1b5382.png": {
+    "title": "Posture_Responsive",
+    "description": "Posture_Responsive",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "9f8410d5a9728d3f09eddcc9ff038c020bd6ccfc.png": {
+    "title": "Posture_Constrained",
+    "description": "Posture_Constrained",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "a12f50e57b3e24c73fed23b2ab2e23fb14a064ec.png": {
+    "title": "KnowledgeCheckRight",
+    "description": "KnowledgeCheckRight",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "a2a46bfdc3c787df72e7b5305b87614a552242f7.png": {
+    "title": "AngryPerson",
+    "description": "AngryPerson",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "a7d24ef957579b63daf1b94c58a78fec25d23f8c.png": {
+    "title": "Probing",
+    "description": "Probing",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "aa7824632c102448cf74513954b8c72caf8759ff.gif": {
+    "title": "3_KnowledgeCheckGIF",
+    "description": "3_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "aab138ae3e950382acf40ee2681b741429e5f810.png": {
+    "title": "2_Contempt",
+    "description": "2_Contempt",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "aae7433a44ffe53d137979c4f8db8b5d2aceabb2.png": {
+    "title": "07_LyingHands",
+    "description": "07_LyingHands",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "abdd451b80487160e16e44e3075109cb136dab00.png": {
+    "title": "FourPhasesGoodInterview_01_2",
+    "description": "FourPhasesGoodInterview_01_2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "ad508e0cfd325b1aaf792edfea4dbd5c33596301.png": {
+    "title": "5_Illustrators",
+    "description": "5_Illustrators",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b0088ee82dd41c3735643c6e554f8474707fd4dc.png": {
+    "title": "7_KnowledgeCheck",
+    "description": "7_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b2abf346cbf982d6c585a49708f65250395769a6.png": {
+    "title": "Answer1",
+    "description": "Answer1",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b364ec422f89fe0d5fd79787783155d288724101.png": {
+    "title": "03_GetMeOutOfHereLegs",
+    "description": "03_GetMeOutOfHereLegs",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b3f6be7e36476214a5812de57c922f091548b684.png": {
+    "title": "FourPhasesGoodInterview_03_2",
+    "description": "FourPhasesGoodInterview_03_2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b473c6b74ed75e4c80bce337b1fd347cbc49f5b0.gif": {
+    "title": "4_KnowledgeCheckGIF",
+    "description": "4_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b512b829b8aaeb6784d77f602638fd004ca2f759.png": {
+    "title": "Jorge",
+    "description": "Jorge",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b5478c5ee1e8ed02f67a744854843a963fae7265.png": {
+    "title": "OpenAndClosedPosture",
+    "description": "OpenAndClosedPosture",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b6a2330555dcaa57a05adb769503e4b758903fbc.png": {
+    "title": "05_HiddenHands",
+    "description": "05_HiddenHands",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b6e2932c36e7532f35b8d21d18d36ef6f630356c.png": {
+    "title": "6_KnowledgeCheck",
+    "description": "6_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b7d56e6ec388cda526e129dae5876a39dfcf9c30.png": {
+    "title": "Interview_01",
+    "description": "Interview_01",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b82d4e7e27c2f3bc3625b2c5c225b3a01893190e.png": {
+    "title": "Mirroring",
+    "description": "Mirroring",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b94faa6b784aa3ab1200de1df50133eac3e94d85.png": {
+    "title": "04_ArmsFlailing",
+    "description": "04_ArmsFlailing",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "b955a17a4ab31f32a736f29da5d0f15564e112b5.png": {
+    "title": "Paraphrasing",
+    "description": "Paraphrasing",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "bbcfe22ca202b0229eb9bb42ac225e172b3aeef0.png": {
+    "title": "EffectiveInterviewer",
+    "description": "EffectiveInterviewer",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "bd5b2a8f447c8d6dbd88663218549be9c6c82fb3.png": {
+    "title": "AttemptToControlBehaviour",
+    "description": "AttemptToControlBehaviour",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "bf94717509d5921f3da2c2bf5e5fe1c99074f8df.png": {
+    "title": "Emmanuelle",
+    "description": "Emmanuelle",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "bfe40ba8cca36beaef770292bd9db770536d1767.png": {
+    "title": "08_NervousFeet",
+    "description": "08_NervousFeet",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c32128202fd139f7013c46a5e581e6e9d6a66220.png": {
+    "title": "ActiveListening",
+    "description": "ActiveListening",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c39cae51141a57cebf01bc6bc238e02d0f85a3cc.png": {
+    "title": "AcknoledgeFeeling",
+    "description": "AcknoledgeFeeling",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c3ca54efef59fcde007d4947a99475c5724b3a50.png": {
+    "title": "TimedVerbalIntervention",
+    "description": "TimedVerbalIntervention",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c63722346a8b5b1573c24ca16ccef8544ed0e880.png": {
+    "title": "Posture_Combative",
+    "description": "Posture_Combative",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c6b82036892643975e49c2afe7034112d12a39cc.png": {
+    "title": "KnowledgeCheck2_02",
+    "description": "KnowledgeCheck2_02",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c6ff61fe1bc5f0e1a58ffc81a589f94e3e53f8ff.png": {
+    "title": "Obstacle3",
+    "description": "Obstacle3",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c85a2f8df03182444677f84f7fb4bcf7a797e367.png": {
+    "title": "06_AngryHands",
+    "description": "06_AngryHands",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "c9dac04507859f98349de7fdb762ad0dd57e4a6a.png": {
+    "title": "RoleOfRapportForCBSA",
+    "description": "RoleOfRapportForCBSA",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "cb8b3f890641f82ef828a82cb6476a53d4ece03a.png": {
+    "title": "4_Grooming",
+    "description": "4_Grooming",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "cbbe31ac53db8cbe2f38c2624de2010a9b41f057.png": {
+    "title": "PeopleTalking",
+    "description": "PeopleTalking",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "cc0e1baa011d532eb2aff14dc999027f0c88e8d3.png": {
+    "title": "9_KnowledgeCheck",
+    "description": "9_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "ced30dac78d2edf04970b1cea0ffa3dffc95dab9.png": {
+    "title": "KnowTheLaw",
+    "description": "KnowTheLaw",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "d368cb10589d13ce8200ac6b7d10f19fb1b16888.png": {
+    "title": "10_KnowledgeCheck",
+    "description": "10_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "d3ba4f53206dc2a9d760f5e98285a9f71af54686.png": {
+    "title": "Stephen",
+    "description": "Stephen",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "d466af3d71e0e1e03fc80219955190cef6fa5788.png": {
+    "title": "06_HonestFeet",
+    "description": "06_HonestFeet",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "d8b6acce99efdb38df828e0dd9dd707036711abe.png": {
+    "title": "5_Fear",
+    "description": "5_Fear",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "d94996f946b2a0f29f4a4ff2077806cf662cce1e.png": {
+    "title": "Stereotyping",
+    "description": "Stereotyping",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "dc104cc19efd614c1011362d417130f1594486bf.png": {
+    "title": "Answer2",
+    "description": "Answer2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "dc7a0bd828e0b710c9cf4dc6ed32092af55686fe.gif": {
+    "title": "10_KnowledgeCheckGIF",
+    "description": "10_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "de8cdf80520733e08f9669e63c69ae66a3c61cab.png": {
+    "title": "Obstacle2",
+    "description": "Obstacle2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e02b83b3305ddf072bbc7757fd552fec2a56228a.png": {
+    "title": "NoteBook",
+    "description": "NoteBook",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e11650bf0ccceabcaa39cdc8f9dcd827ed98090a.png": {
+    "title": "Obstacle1",
+    "description": "Obstacle1",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e12ee823ce2f854c642fd3eff1e02d381123bfe1.png": {
+    "title": "Ernest",
+    "description": "Ernest",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e161d381ad7c92b04bfcc86d38a52f2af06de50f.png": {
+    "title": "09_PressuredHands",
+    "description": "09_PressuredHands",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e1ad7a26542495931acf31060e6a5f1db506a5a4.gif": {
+    "title": "7_KnowledgeCheckGIF",
+    "description": "7_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e60a2a0fe1fa7e657cf0e15462af1481d5e04cc3.png": {
+    "title": "02_LyingLegs",
+    "description": "02_LyingLegs",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e7f1900e292c127970e4545a821f366f43412170.png": {
+    "title": "KnowledgeCheck2_03",
+    "description": "KnowledgeCheck2_03",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e8340be3a5092a52d6f1094fd939c3729cfdbd7c.png": {
+    "title": "1_BodyPosture_2",
+    "description": "1_BodyPosture_2",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "e839b9eb739300978a69024cd0317ed14a9fdfc0.gif": {
+    "title": "5_KnowledgeCheckGIF",
+    "description": "5_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "eb2f30f54732b204b7ebe275fe3d673978733e08.png": {
+    "title": "12_KnowledgeCheck",
+    "description": "12_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "eb3e2afdcb33ae3850a5cac4afeaee30beeba7a2.png": {
+    "title": "SuperStar",
+    "description": "SuperStar",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "ec3e1310309cabdf6a216e2d05f7f2df56b64d76.png": {
+    "title": "01_ConfidentLegs",
+    "description": "01_ConfidentLegs",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "ecf12d1199388e661756fbdbf271e1bf7d94faec.png": {
+    "title": "3_KnowledgeCheck",
+    "description": "3_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "edfa4fb0f409ca1ed089981675ab23c9a410bb81.png": {
+    "title": "13_KnowledgeCheck",
+    "description": "13_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "ef40108ccb044f3a941c86c019984cf60cbdb7b8.png": {
+    "title": "11_KnowledgeCheck",
+    "description": "11_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "efce3153559cc83bc0e2732c727c1db82c8eb5f1.png": {
+    "title": "PostureMatrix",
+    "description": "PostureMatrix",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f112615f1935891991f9df13c78febd8ab112026.png": {
+    "title": "7_EyeContact",
+    "description": "7_EyeContact",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f178bd19b5e03adb9df96efa51a4496f5cbe1f20.png": {
+    "title": "07_ImpatientFeet",
+    "description": "07_ImpatientFeet",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f1fa3a1ec3e89bf3435b104c67c056586f96b12a.png": {
+    "title": "CognitiveLoading",
+    "description": "CognitiveLoading",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f3ba501841d48de581e2ba37bee39dbeb469310a.png": {
+    "title": "2_KnowledgeCheck",
+    "description": "2_KnowledgeCheck",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f4d5a9709b9444a13934264c32768dcd898c7a85.png": {
+    "title": "EngagedAndDisengagedPosture",
+    "description": "EngagedAndDisengagedPosture",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f50454ac1ce8e2b42802803b13b8c5519c89c9f6.gif": {
+    "title": "11_KnowledgeCheckGIF",
+    "description": "11_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f66c5a45fd46492d887478b6de4e268eed93bee7.png": {
+    "title": "KnowledgeCheck1",
+    "description": "KnowledgeCheck1",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f8c2223c811d4d020bd33a7986cdfac9f31881dc.png": {
+    "title": "EmotionalReaction",
+    "description": "EmotionalReaction",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "f9bb9134946bf627ebd5b9babe44ed1325c47c21.png": {
+    "title": "SlightOrPartialExpressions",
+    "description": "SlightOrPartialExpressions",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "fe37445f134e73d98f807cee5eea10515cbdbd03.png": {
+    "title": "Leading",
+    "description": "Leading",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "fe649b605d6e0086fd3941693f0cb18df0e2951d.png": {
+    "title": "6_Surprise",
+    "description": "6_Surprise",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "fedabafa6f339b99e0b5c6795a73fb8a355d1564.gif": {
+    "title": "8_KnowledgeCheckGIF",
+    "description": "8_KnowledgeCheckGIF",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "fef07a35f50fd3fc1c1a1a4b20f6c114805e3659.png": {
+    "title": "Highlight",
+    "description": "Highlight",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "ff292c6214a11d0ecb1f2b4f0e62c294511bf377.png": {
+    "title": "Television",
+    "description": "Television",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  },
+  "6a785da7f7768c7ddbdb784da80b407a9256958a.png": {
+    "title": "Banner",
+    "description": "Banner",
+    "tags": []
+  },
+  "c30431ce4d6eb3c0d6304f0e42c750b0cbfacfb4.jpg": {
+    "title": "1_Off",
+    "description": "1_Off",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "3f8a5ad05e8ca564d903b97feb6b38ec941a75df.jpg": {
+    "title": "2_Off",
+    "description": "2_Off",
+    "tags": [
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      },
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      }
+    ]
+  },
+  "1eb74471779278676c111a0b14e98d3ee49499dd.jpg": {
+    "title": "9_Off",
+    "description": "9_Off",
+    "tags": [
+      {
+        "title": "Interviewing Skills",
+        "_id": "5d6e632c4e40272cc0132c7e"
+      },
+      {
+        "title": "S5053-N",
+        "_id": "5d6e63274e40272cc0132c7d"
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Avant de commencer",
+    "displayTitle": "Avant de commencer",
+    "body": "",
+    "_classes": "module-0",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e14eb2b6083072dbcef7d6e",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Module 1 - Introduction à l’entrevue",
+    "displayTitle": "Module 1 - Introduction à l’entrevue",
+    "body": "",
+    "_classes": "module-1",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e14eb2b6083072dbcef7d6f",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 2 - Observer",
+    "displayTitle": "Module 2 - Observer",
+    "body": "",
+    "_classes": "module-2",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e14eb2b6083072dbcef7d70",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    }
+  },
+  {
+    "title": "Module 3 - Écouter",
+    "displayTitle": "Module 3 - Écouter",
+    "body": "",
+    "_classes": "module-3",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e14eb2b6083072dbcef7d71",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    }
+  },
+  {
+    "title": "Module 4 - Déceler la tromperie",
+    "displayTitle": "Module 4 - Déceler la tromperie",
+    "body": "",
+    "_classes": "module-4",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e14eb2b6083072dbcef7d72",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    }
+  },
+  {
+    "title": "Module 5 - Parler",
+    "displayTitle": "Module 5 - Parler",
+    "body": "",
+    "_classes": "module-5",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e14eb2b6083072dbcef7d73",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    }
+  },
+  {
+    "title": "Module 6 - Traitement de situations difficiles",
+    "displayTitle": "Module 6 - Traitement de situations difficiles",
+    "body": "",
+    "_classes": "module-6",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5e14eb2b6083072dbcef7d74",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    }
+  },
+  {
+    "title": "Assets",
+    "displayTitle": "Assets",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_isHidden": true,
+    "_isVisible": false,
+    "_id": "5e14eb2b6083072dbcef7d75",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "module-assets",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  }
+]
