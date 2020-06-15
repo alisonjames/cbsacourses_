@@ -1,0 +1,424 @@
+{
+  "title": "Prévention du profilage racial à la première ligne",
+  "displayTitle": "Prévention du profilage racial à la première ligne",
+  "body": "<script>  if(document.getElementById(\"cbsa-asfc-logo\")){document.getElementById(\"cbsa-asfc-logo\").src=\"adapt/css/assets/CBSA-Label-White-web-fr.png\";};if(document.getElementsByClassName(\"base navigation-inner navigation-home-button  icon  icon-home\")){document.getElementsByClassName(\"base navigation-inner navigation-home-button  icon  icon-home\")[0].setAttribute(\"aria-label\",\"Accueill\");}</script><p>Une approche équitable basée sur des données probantes (Code de cours : H1015-P)<br />Développé par la Direction de la formation et du perfectionnement en collaboration avec Graybridge Malkam</p>",
+  "description": "",
+  "_latestTrackingId": 107,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Soumettre",
+      "ariaLabel": "Soumettre"
+    },
+    "_reset": {
+      "buttonText": "Réessayer",
+      "ariaLabel": "Réessayer"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Afficher la bonne réponse ",
+      "ariaLabel": "Afficher la bonne réponse "
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Cacher la bonne réponse",
+      "ariaLabel": "Cacher la bonne réponse"
+    },
+    "_showFeedback": {
+      "buttonText": "Rétroaction",
+      "ariaLabel": "Rétroaction"
+    },
+    "remainingAttemptsText": "tentatives restantes",
+    "remainingAttemptText": "dernière tentative",
+    "disabledAriaLabel": "Ce bouton est désactivé pour le moment"
+  },
+  "_classes": "",
+  "_lockType": "sequential",
+  "_id": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Activer l’accessibilité?",
+      "accessibilityToggleTextOff": "Désactiver l’accessibilité?",
+      "skipNavigationText": "Passer la navigation",
+      "_accessibilityInstructions": {
+        "touch": "Instruction d’utilisation. Glissez vers la gauche pour continuer. Glissez vers la droite pour revenir. Tappez deux fois pour sélectionner. Utilisez deux doigts en glissant vers le haut pour retourner au haut de la page.",
+        "notouch": "Instruction d’utilisation. Utilisez la touche « Tab »  pour continuer. Utilisez les touches «Shift Tab»  pour revenir. Utilisez la touche « Enter » pour sélectionner. Utilisez la touche « Escape » pour revenir au haut de la page.",
+        "ipad": "Instruction d’utilisation. Glissez vers la gauche pour continuer. Glissez vers la droite pour revenir. Tappez deux fois pour sélectionner. Utilisez deux doigts en glissant vers le haut pour retourner au haut de la page. Instruction d’utilisation pour accéder à l’utilisation du clavier. Utilisez la gauche pour continuer. Utilisez la droite pour revenir. Utilisez la touche « up » et « down » simultanément pour sélectionner."
+      },
+      "_ariaLabels": {
+        "navigation": "Barre de navigation du cours",
+        "skipNavigation": "Passer la navigation",
+        "menuLoaded": "Page d’accueil chargée",
+        "page": "Page",
+        "pageLoaded": "Page chargée",
+        "previous": "Retour",
+        "navigationDrawer": "Ouvrir le menu principal",
+        "drawer": "Barre latérale",
+        "closePopup": "Fermer",
+        "next": "Suivant",
+        "done": "Terminer",
+        "complete": "Complété",
+        "incomplete": "Incomplet",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Verrouillé",
+        "accessibilityToggleButton": "En sélectionnant ce bouton, vous pouvez activer ou désactiver l’accessibilité.",
+        "feedbackPopUp": "Fenêtre ouverte",
+        "visited": "Visité",
+        "menuIndicatorHeading": "Titre du menu"
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "Certains éléments de la page n'ont pas été complétés. Vous devez les compléter avant de poursuivre le cours."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Sections du module",
+        "pageLevelProgressIndicatorBar": "Barre de progression. Sélectionnez ici pour afficher vos progrès dans le présent module et sélectionnez un item pour y accéder. ",
+        "pageLevelProgressMenuBar": "Vous avez complété",
+        "pageLevelProgressEnd": "Vous avez atteint la fin de la liste de sections du module.",
+        "optionalContent": "Contenu optionnel"
+      },
+      "_resources": {
+        "resourcesEnd": "Vous avez atteint la fin de la liste des ressources."
+      },
+      "_glossary": {
+        "glossary": "Glossaire"
+      }
+    }
+  },
+  "_type": "course",
+  "_assessment": {
+    "_postTotalScoreToLms": true,
+    "_isPercentageBased": true,
+    "_scoreToPass": 80
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Références",
+    "description": "",
+    "_filterButtons": {
+      "all": "Tout",
+      "document": "Documents",
+      "media": "Média",
+      "link": "Liens"
+    },
+    "_filterAria": {
+      "allAria": "Afficher toutes les références",
+      "documentAria": "Afficher toutes les  références de type document",
+      "mediaAria": "Afficher toutes les  références de type média",
+      "linkAria": "Afficher toutes les références de type liens"
+    },
+    "itemAriaExternal": "Ce contenu ouvrira dans un nouvelle fenêtre",
+    "_resourcesItems": [
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "1. Alan Travis. « Stop and search reduction has led to fairer policing, says equality group ». The Guardian (6 juin 2013).",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.theguardian.com/law/2013/jun/06/stop-search-fairer-policing-equality-commission "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "2. Commission des droits de la personne de l’Alberta (2012). <em>Racial Profiling Information Sheet.</em> ",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.albertahumanrights.ab.ca/Documents/RacialProfiling.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "3. Association américaine d’anthropologie. <em>Understanding Race </em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.understandingrace.org  "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "4. Anupam B Jena, Cass R Sunstein et Tanner R Hicks. « The Benefit of Having the Same Name as a Police Officer ». <em>The New York Times </em>(4 August 2018).",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.nytimes.com/2018/08/04/opinion/sunday/police-bias-research-names.html "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "5. Cory Collins. « What Is White Privilege, Really? » Teaching Tolerance. Numéro 60, automne 2018. Southern Poverty Law Center ",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.tolerance.org/magazine/fall-2018/what-is-whiteprivilege-really"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "6. Agence des droits fondamentaux de l’Union européenne (2010).  <em> Pour des pratiques de police plus efficaces : Guide pour comprendre et prévenir le profilage ethnique discriminatoire.</em> Union européenne.",
+        "filename": "",
+        "description": "",
+        "_link": "https://fra.europa.eu/en/publication/2010/towards-more-effective-policing-understanding-and-preventing-discriminatory-ethnic "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "7. Commission sur l’égalité et les droits de la personne (2013). </em>Stop and Think Again: Towards race equality in police PACE stop and search.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.equalityhumanrights.com/en/publication-download/stop-and-think-again-towards-equality-police-pace-stop-and-search "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "8. Kirwan Institute for the Study of Race and Ethnicity (2014). <em>State of the Science: Implicit Bias Review.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://kirwaninstitute.osu.edu/wp-content/uploads/2014/03/2014-implicit-bias.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "9. L.A. Fridell (2017). Producing Bias-Free Policing: A Science-Based Approach. SpringerBriefs in Translational Criminology, DOI 10.1007/978-3-319-33175-1_2. ",
+        "filename": "",
+        "description": "",
+        "_link": "https://download.e-bookshelf.de/download/0007/8379/83/L-G-0007837983-0015173263.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "10. Commission ontarienne des droits de la personne. « A Review of Racial Profiling Jurisprudence ». <em>Racial Profiling and Human Rights.</em> Revue Canadian Diversity (volume 14, numéro 1, 2017).",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.ohrc.on.ca/sites/default/files/Racial%20Profiling%20and%20Human%20Rights_Canadian%20Diversity.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "11. Commission ontarienne des droits de la personne. Exemples de discrimination raciale (fiche) ",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.ohrc.on.ca/en/examples-racial-discrimination-fact-sheet  "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "12. Commission ontarienne des droits de la personne (2003). <em>Un prix trop élevé : Les coûts humains du profilage racial.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.ohrc.on.ca/sites/default/files/attachments/Paying_the_price%3A_The_human_cost_of_racial_profiling.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "13. Commission ontarienne des droits de la personne (2005). <em>Politique et directives sur le racisme et la discrimination raciale.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.ohrc.on.ca/sites/default/files/attachments/Policy_and_guidelines_on_racism_and_racial_discrimination.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "14. Commission ontarienne des droits de la personne (2016).  <em>Mémoire présenté au ministère de la Sécurité communautaire et des Services correctionnels.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.ohrc.on.ca/en/ohrc-submission-ministry-community-safety-and-correctional-services-street-checks "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "15. Commission ontarienne des droits de la personne (2017). <em>Pris à partie : Rapport de recherche et de consultation sur le profilage racial en Ontario.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://ohrc.on.ca/sites/default/files/Under%20suspicion_research%20and%20consultation%20report%20on%20racial%20profiling%20in%20Ontario_2017.pdf"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "16. Commission ontarienne des droits de la personne (2018).  <em>Un impact collectif : Rapport provisoire relatif à l’enquête sur le profilage racial et la discrimination envers les personnes noires au sein du service de police de Toronto.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.ohrc.on.ca/en/public-interest-inquiry-racial-profiling-and-discrimination-toronto-police-service/collective-impact-interim-report-inquiry-racial-profiling-and-racial-discrimination-black"
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "17. PBS. Race: The Power of an Illusion ",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.pbs.org/race/000_General/000_00-Home.htm  "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "18. Peggy McIntosh. « White Privilege: Unpacking the Invisible Knapsack » ",
+        "filename": "",
+        "description": "",
+        "_link": "www.case.edu/president/aaction/UnpackingTheKnapsack.pdf  "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "19. Phillip Atiba Goff. « Identity traps: How to think about race and policing ». <em>Behavioral Science & Policy.</em> Volume 2, numéro 2, 2016.",
+        "filename": "",
+        "description": "",
+        "_link": "https://behavioralpolicy.org/wp-content/uploads/2017/05/Goff-web.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "20. Ron Susswein. <em>Companion Guide - Attorney General Law Enforcement Directive No. 2005-1. Establishing an Official Statewide Policy Defining and Prohibiting the Practice of “Racially Influenced Policing”.</em>",
+        "filename": "",
+        "description": "",
+        "_link": "http://www.njdcj.org/agguide/directives/racial-profiling/pdfs/ripcompanion-guide.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "21. Rupa Banerjee, Jeffrey G. Reitz et Phil Oreopoulos (2017). « Do Large Employers Treat Racial Minorities More Fairly? ». <em>A New Analysis of Canadian Field Experiment Data.</em> Université de Toronto.",
+        "filename": "",
+        "description": "",
+        "_link": "https://munkschool.utoronto.ca/ethnicstudies/files/2014/10/cpp.2017-033.pdf "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "22. L’honorable Michael H. Tulloch (2018). <em>Rapport de l’examen indépendant des contrôles de routine.</em> Gouvernement de l’Ontario.",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.mcscs.jus.gov.on.ca/english/Policing/StreetChecks/ReportIndependentStreetChecksReview2018.html "
+      },
+      {
+        "_type": "link",
+        "_forceDownload": false,
+        "title": "23. Service de police de Toronto<em>Racially-Based Policing </em>(cours en ligne).",
+        "filename": "",
+        "description": "",
+        "_link": "https://www.cpkn.ca/en/course/racially-biased-policing "
+      }
+    ]
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_showPrompt": true,
+    "title": "Reprendre",
+    "body": "Souhaitez-vous reprendre où vous vous êtes arrêté ?",
+    "_buttons": {
+      "yes": "Oui",
+      "no": "Non"
+    }
+  },
+  "_blockSlider": {
+    "_isEnabled": true
+  },
+  "_aboutUs": {
+    "_drawerOrder": 0,
+    "title": "Contactez-nous",
+    "description": "",
+    "headline": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_aboutUsItems": [
+      {
+        "title": "Contactez-nous",
+        "description": "<p>Pour signaler un problème technique ou pour nous faire parvenir des commentaires ou des suggestions concernant ce produit de formation en ligne, veuillez communiquer avec <a href=\"mailto:H0PLTAg@cbsa-asfc.gc.ca\">l’Unité des technologies d’apprentissage de l’ASFC</a>.</p>"
+      }
+    ],
+    "_socialLinks": []
+  },
+  "_drawerPageNavigation": {
+    "_isEnabled": true,
+    "title": "Modules",
+    "description": "Cliquez ici pour naviguer dans ce cours"
+  },
+  "_glossary": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": " Glossaire",
+    "description": "",
+    "clearSearch": "",
+    "searchItemsAlert": "{{filteredItems.length}} found.",
+    "searchPlaceholder": "",
+    "searchWithInDescriptionLabel": "",
+    "itemNotFoundMessage": "Aucun résultat trouvé",
+    "_glossaryItems": [
+      {
+        "description": "Un jugement personnel et souvent déraisonnable fondé sur des idées préconçues. (Pour en apprendre davantage, suivez le cours <em>Diversité et relations interraciales.</em>)",
+        "term": "Préjugé"
+      },
+      {
+        "description": "Prendre des décisions et des mesures basées sur des faits, et non sur des préjugés ou des opinions personnelles.",
+        "term": "Impartial (p. ex. service impartial)"
+      },
+      {
+        "description": "Par le passé, les termes « race » et « couleur » ont été utilisés de manière interchangeable. Toutefois, plus récemment, le terme « couleur » a été utilisé dans un contexte de hiérarchie fondée sur le spectre des couleurs de peau au sein d’un groupe racialisé. (Source : Joshua Sealy-Harrington et Jonnette Watson Hamilton [2018]. « Colour as a Discrete Ground of Discrimination ». Canadian Journal of Human Rights: [2018] 7:1 Can J Hum Rts.)",
+        "term": "Couleur"
+      },
+      {
+        "description": "Le fait de réserver un traitement distinct à une personne ou à un groupe, ce qui met généralement cette personne ou ce groupe en situation défavorable. (Pour en apprendre davantage, suivez le cours <em>Diversité et relations interraciales.</em>)",
+        "term": "Discrimination"
+      },
+      {
+        "description": "Les origines culturelles des ancêtres d’une personne. (Source : Dictionnaire du Recensement de 2006 de Statistique Canada)",
+        "term": "Origine ethnique"
+      },
+      {
+        "description": "Tout comportement inopportun et injurieux, d’une personne envers une ou des personnes et dont l’auteur savait ou aurait raisonnablement dû savoir qu’un tel comportement pouvait offenser ou causer préjudice. (Pour en apprendre davantage, suivez le cours <em>Diversité et relations interraciales.</em>)",
+        "term": "Harcèlement"
+      },
+      {
+        "description": "Une approche ou un environnement qui est juste, équitable, favorable, accueillant et respectueux. On y tient compte de la diversité des identités, des habiletés, des antécédents, des cultures, des aptitudes, des expériences et des points de vue, en plus de les valoriser et de les mettre à profit.",
+        "term": "Inclusivité"
+      },
+      {
+        "description": "Exempt de toute forme de discrimination. Tous les employés de l’ASFC doivent valoriser la diversité et traiter chaque personne de façon juste et respectueuse.",
+        "term": "Non discriminatoire (p. ex. traitement non discriminatoire)"
+      },
+      {
+        "description": "Une opinion ou un jugement (souvent défavorable) basé sur des faits non pertinents, des connaissances inadéquates ou des stéréotypes erronés. (Source : Commission des droits de la personne de l’Alberta). (Pour en apprendre davantage, suivez le cours <em>Diversité et relations interraciales.</em>)",
+        "term": "Idée préconçue"
+      },
+      {
+        "description": "Ce terme est utilisé en référence à un groupe de personnes qui ont des traits physiques visibles en commun, comme la couleur de peau ou la texture des cheveux. Il s’agit d’un concept créé par la société pour marginaliser les personnes qui a été appliqué de multiples façons dans différentes parties du monde et tout au long de l’histoire.",
+        "term": "Race"
+      },
+      {
+        "description": "Une personne est racialisée ou est reconnue comme un membre d’une « race » particulière en fonction de ses caractéristiques physiques ou d’autres caractéristiques personnelles. Des croyances bien ancrées dans la société ont fait en sorte que des stéréotypes négatifs sont associés à ces caractéristiques, ce qui a engendré des désavantages pour les personnes qui possèdent ces caractéristiques.",
+        "term": "Racialisé (p. ex. personnes racialisées)"
+      },
+      {
+        "description": "Le fait de croire qu’une race est supérieure à d’autres. Cela comprend aussi toute forme de comportement discriminatoire à l’égard d’autres races qui est fondé sur une telle croyance. (Pour en apprendre davantage, suivez le cours <em>Diversité et relations interraciales.</em>)",
+        "term": "Racisme"
+      },
+      {
+        "description": "Toute mesure ou décision qui fait en sorte qu’une personne ou un groupe est traité de manière négative en fonction de sa race. Au Canada, la Loi canadienne sur les droits de la personne offre une protection contre la discrimination sociale aux gens qui travaillent pour le gouvernement fédéral ou qui reçoivent des services offerts par celui-ci.",
+        "term": "Discrimination raciale"
+      },
+      {
+        "description": "Toute mesure prise par une ou plusieurs personnes en situation d’autorité ou par une organisation pour des raisons de sûreté, de sécurité ou de protection du public, qui repose sur des stéréotypes liés à des facteurs d’appartenance réelle ou présumée (p. ex. la race, la couleur, l’origine nationale ou ethnique ou la religion d’une personne) plutôt que sur des faits ou sur un soupçon raisonnable et qui a pour but d’isoler une personne ou un groupe à des fins d’examen ou de traitement particulier. Il s’agit d’une forme de discrimination.",
+        "term": "Profilage racial"
+      },
+      {
+        "description": "Le fait de tirer des conclusions concernant un groupe de personnes ayant les mêmes caractéristiques, sans faire de distinction entre les individus. (Pour en apprendre davantage, suivez le cours <em>Diversité et relations interraciales.</em>)",
+        "term": "Stéréotype"
+      },
+      {
+        "description": "Les stéréotypes sociaux au sujet de certains groupes de personnes que les individus forment sans en être conscients. (Source : bureau de la diversité et de la sensibilisation de l’Université de la Californie à San Francisco)",
+        "term": "Préjugé inconscient"
+      }
+    ]
+  },
+  "_triggered": {
+    "_isEnabled": true
+  }
+}

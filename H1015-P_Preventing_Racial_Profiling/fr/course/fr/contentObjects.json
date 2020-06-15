@@ -1,0 +1,182 @@
+[
+  {
+    "title": "<strong>Avant de commencer </strong>",
+    "displayTitle": "<strong>Avant de commencer </strong>",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter ",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d6d150ff51a945268a2",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/fr/assets/2d7926edc35738986423e718bea7f5f6448cdef5.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "<strong>Module 1</strong><br>Compréhension des concepts ",
+    "displayTitle": "<strong>Module 1</strong><br>Compréhension des concepts ",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d6d150ff51a945268a3",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/fr/assets/53b096216860feb9092e54b8492869e0c73d9617.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "<strong>Module 2</strong><br>Traitement non discriminatoire : Le rôle des ASF",
+    "displayTitle": "<strong>Module 2</strong><br>Traitement non discriminatoire : Le rôle des ASF",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d6d150ff51a945268a4",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/fr/assets/7a138a6417b5131abc7aca245da95a37d1d82c79.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "<strong>Module 3</strong><br>Fournir un service impartial ",
+    "displayTitle": "<strong>Module 3</strong><br>Fournir un service impartial ",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d6d150ff51a945268a6",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/fr/assets/23b93eb4a4994f0e8290741d09776640b53c30be.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Assets",
+    "displayTitle": "Assets",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_isHidden": true,
+    "_isVisible": false,
+    "_id": "5c9e1d6d150ff51a945268a8",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  }
+]

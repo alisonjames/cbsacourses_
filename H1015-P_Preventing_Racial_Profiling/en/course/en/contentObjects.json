@@ -1,0 +1,182 @@
+[
+  {
+    "title": "<strong>Before you begin</strong>",
+    "displayTitle": "<strong>Before you begin</strong>",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d0b150ff51a945266d0",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/2d7926edc35738986423e718bea7f5f6448cdef5.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "<strong>Module 1</strong><br>Understanding the concept",
+    "displayTitle": "<strong>Module 1</strong><br>Understanding the concept",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d0b150ff51a945266d1",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/53b096216860feb9092e54b8492869e0c73d9617.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "<strong>Module 2</strong><br>Non-Discriminatory Treatment: The role of BSOs",
+    "displayTitle": "<strong>Module 2</strong><br>Non-Discriminatory Treatment: The role of BSOs",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d0b150ff51a945266d2",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/7a138a6417b5131abc7aca245da95a37d1d82c79.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "<strong>Module 3</strong><br>Providing bias-neutral service ",
+    "displayTitle": "<strong>Module 3</strong><br>Providing bias-neutral service ",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c9e1d0b150ff51a945266d4",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/23b93eb4a4994f0e8290741d09776640b53c30be.jpg"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Assets",
+    "displayTitle": "Assets",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_isHidden": true,
+    "_isVisible": false,
+    "_id": "5c9e1d0b150ff51a945266d6",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  }
+]
