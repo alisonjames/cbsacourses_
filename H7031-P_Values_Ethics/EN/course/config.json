@@ -1,0 +1,91 @@
+{
+  "_defaultLanguage": "en",
+  "_defaultDirection": "ltr",
+  "_questionWeight": 1,
+  "_generateSourcemap": false,
+  "_forceRouteLocking": true,
+  "_id": "5ea86174e154fe2cc449d415",
+  "screenSize": {
+    "large": 1024,
+    "medium": 759,
+    "small": 519
+  },
+  "_accessibility": {
+    "_isEnabled": true,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": true,
+    "_isSkipNavigationEnabled": true
+  },
+  "_drawer": {
+    "_duration": 400,
+    "_hideEasing": "easeInQuart",
+    "_showEasing": "easeOutQuart"
+  },
+  "_courseId": "5ea86174e154fe2cc449d413",
+  "__v": 0,
+  "_logging": {
+    "_isEnabled": true,
+    "_level": "info",
+    "_console": true
+  },
+  "_inview": {
+    "_allowScrollOver": true
+  },
+  "_trickle": {
+    "_completionAttribute": "_isComplete"
+  },
+  "_spoor": {
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": true,
+      "_requireAssessmentPassed": false,
+      "_shouldSubmitScore": false,
+      "_shouldStoreResponses": false,
+      "_shouldRecordInteractions": true
+    },
+    "_reporting": {
+      "_onTrackingCriteriaMet": "completed",
+      "_onAssessmentFailure": "incomplete",
+      "_resetStatusOnLanguageChange": false
+    },
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": false,
+      "_commitOnVisibilityChangeHidden": true
+    }
+  },
+  "build": {
+    "includes": [
+      "adapt-contrib-boxMenu",
+      "5be19f1dfc944814a804bb88",
+      "adapt-contrib-text",
+      "adapt-contrib-graphic",
+      "adapt-contrib-accordion",
+      "adapt-next-button",
+      "adapt-contrib-clickAndLearn",
+      "adapt-contrib-mcq",
+      "adapt-contrib-textInput",
+      "adapt-contrib-hotgraphic",
+      "adapt-contrib-narrative",
+      "adapt-expose",
+      "adapt-component-tidbits",
+      "adapt-contrib-blank",
+      "adapt-contrib-matching",
+      "adapt-contrib-media",
+      "adapt-aboutUs",
+      "adapt-contrib-assessment",
+      "adapt-contrib-bookmarking",
+      "adapt-contrib-glossary",
+      "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-resources",
+      "adapt-contrib-spoor",
+      "adapt-contrib-trickle",
+      "adapt-contrib-tutor"
+    ]
+  }
+}

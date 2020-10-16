@@ -1,0 +1,297 @@
+{
+  "title": "Les valeurs de l’ASFC, l’éthique et la divulgation d’actes répréhensibles",
+  "displayTitle": "Les valeurs de l’ASFC<br/>l’éthique et la divulgation d’actes répréhensibles<br/>H7031-P",
+  "body": "<script>  if(document.getElementById(\"cbsa-asfc-logo\")){document.getElementById(\"cbsa-asfc-logo\").src=\"adapt/css/assets/CBSA-Label-White-web-fr.png\";};if(document.getElementsByClassName(\"base navigation-inner navigation-home-button  icon  icon-home\")){document.getElementsByClassName(\"base navigation-inner navigation-home-button  icon  icon-home\")[0].setAttribute(\"aria-label\",\"Accueill\");}</script>",
+  "description": "",
+  "_latestTrackingId": 154,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Soumettre",
+      "ariaLabel": "Soumettre"
+    },
+    "_reset": {
+      "buttonText": "Réessayer",
+      "ariaLabel": "Réessayer"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Afficher la bonne réponse ",
+      "ariaLabel": "Afficher la bonne réponse "
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Cacher la bonne réponse",
+      "ariaLabel": "Cacher la bonne réponse"
+    },
+    "_showFeedback": {
+      "buttonText": "Afficher la rétroaction",
+      "ariaLabel": "Afficher la rétroaction"
+    },
+    "remainingAttemptsText": "tentatives restantes",
+    "remainingAttemptText": "dernière tentative",
+    "disabledAriaLabel": "Ce bouton est désactivé pour le moment"
+  },
+  "_classes": "",
+  "_lockType": "sequential",
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Activer l’accessibilité?",
+      "accessibilityToggleTextOff": "Désactiver l’accessibilité?",
+      "skipNavigationText": "Passer la navigation",
+      "_accessibilityInstructions": {
+        "touch": "Instruction d’utilisation. Glissez vers la gauche pour continuer. Glissez vers la droite pour revenir. Tappez deux fois pour sélectionner. Utilisez deux doigts en glissant vers le haut pour retourner au haut de la page.",
+        "notouch": "Instruction d’utilisation. Utilisez la touche « Tab »  pour continuer. Utilisez les touches «Shift Tab»  pour revenir. Utilisez la touche « Enter » pour sélectionner. Utilisez la touche « Escape » pour revenir au haut de la page.",
+        "ipad": "Instruction d’utilisation. Glissez vers la gauche pour continuer. Glissez vers la droite pour revenir. Tappez deux fois pour sélectionner. Utilisez deux doigts en glissant vers le haut pour retourner au haut de la page. Instruction d’utilisation pour accéder à l’utilisation du clavier. Utilisez la gauche pour continuer. Utilisez la droite pour revenir. Utilisez la touche « up » et « down » simultanément pour sélectionner."
+      },
+      "_ariaLabels": {
+        "navigation": "Barre de navigation du cours",
+        "skipNavigation": "Passer la navigation",
+        "menuLoaded": "Page d’accueil chargée",
+        "page": "Page",
+        "pageLoaded": "Page chargée",
+        "previous": "Retour",
+        "navigationDrawer": "Ouvrir le menu principal",
+        "drawer": "Barre latéral",
+        "closePopup": "Fermer la fenêtre",
+        "next": "Suivant",
+        "done": "Terminer",
+        "complete": "Compléter",
+        "incomplete": "Incomplet",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Verrouillé",
+        "accessibilityToggleButton": "En sélectionnant ce bouton, vous pouvez activer ou désactiver l’accessibilité.",
+        "feedbackPopUp": "Fenêtre ouverte",
+        "visited": "Visité",
+        "menuIndicatorHeading": "Titre du menu"
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_media": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
+      },
+      "_clickAndLearn": {
+        "ariaRegion": "This component is a click and learn type of component where we have few clickable cards, after clicking on one of those card they reveal text associated with them."
+      },
+      "_tidbits": {
+        "ariaRegion": "This component displays text with links. Use the links to access more information."
+      },
+      "_reveal": {
+        "ariaLabel": "Reveal toggle button."
+      },
+      "_flipcard": {
+        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+      },
+      "_tabs": {
+        "ariaRegion": "A tabbed content container. Content can be text, graphic or both."
+      },
+      "_expose": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "Certains éléments de la page n'ont pas été complétés. Vous devez les compléter avant de poursuivre le cours."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Sections du module",
+        "pageLevelProgressIndicatorBar": "Barre de progression. Sélectionnez ici pour afficher vos progrès dans le présent module et sélectionnez un item pour y accéder.",
+        "pageLevelProgressMenuBar": "Vous avez complété",
+        "pageLevelProgressEnd": "Vous avez atteint la fin de la liste de sections du module.",
+        "optionalContent": "Contenu optionnel"
+      },
+      "_glossary": {
+        "glossary": "Glossaire"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      }
+    }
+  },
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_type": "course",
+  "_assessment": {
+    "_postTotalScoreToLms": true,
+    "_isPercentageBased": true,
+    "_scoreToPass": 80
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_aboutUs": {
+    "_drawerOrder": 0,
+    "title": "Contactez-nous",
+    "description": "",
+    "headline": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_aboutUsItems": [
+      {
+        "title": "Contactez-nous",
+        "description": "<p>Pour signaler un problème technique dans ce produit de formation, veuillez contacter l’équipe de Mon apprentissage.&nbsp;<a href=\"mailto:H0PLTAg@cbsa-asfc.gc.ca\">H0PLTAg@cbsa-asfc.gc.ca</a></p>"
+      }
+    ],
+    "_socialLinks": []
+  },
+  "_glossary": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Glossaire",
+    "description": "",
+    "clearSearch": "",
+    "searchItemsAlert": "",
+    "searchPlaceholder": "",
+    "searchWithInDescriptionLabel": "Rechercher dans le texte de description",
+    "itemNotFoundMessage": "Aucun résultats trouvé",
+    "_glossaryItems": [
+      {
+        "description": "Ancien code du Conseil du Trésor",
+        "term": "Code de valeurs et d’éthique de la fonction publique"
+      },
+      {
+        "description": "ASDI",
+        "term": "Agent/agente supérieur/supérieure chargé des divulgations internes"
+      },
+      {
+        "description": "CI",
+        "term": "Conflit d'intérêts"
+      },
+      {
+        "description": "Code de l’ASFC",
+        "term": "Code de conduite de l’ASFC"
+      },
+      {
+        "description": "Conflit d'intérêts apparent",
+        "term": "Un observateur peut percevoir raisonnablement l'existence d'un conflit d'intérêts, que ce soit ou non le cas."
+      },
+      {
+        "description": "Conflit d'intérêts potentiel",
+        "term": "La présence d’un conflit d’intérêts potentiel peut raisonnablement être prévue dans l’avenir."
+      },
+      {
+        "description": "Conflit d'intérêts reel",
+        "term": "Un conflit d’intérêts existe réellement."
+      },
+      {
+        "description": "CVESP",
+        "term": "Code de valeurs et d’éthique du secteur public "
+      },
+      {
+        "description": "LEFP",
+        "term": "Loi sur l'emploi dans la fonction publique"
+      },
+      {
+        "description": "LPFDAR",
+        "term": "Loi sur la protection des fonctionnaires divulgateurs d'actes répréhensibles "
+      },
+      {
+        "description": "PAE",
+        "term": "Programme d’aide aux employés"
+      },
+      {
+        "description": "Politique",
+        "term": "Politique sur les conflits d’intérêts et l’après mandat (SCT)"
+      },
+      {
+        "description": "SCT",
+        "term": "Secrétariat du Conseil du Trésor"
+      },
+      {
+        "description": "SGIC",
+        "term": "Système de gestion informelle des conflits"
+      },
+      {
+        "description": "Tâches conflictuelles ",
+        "term": "Il y a tâches conflictuelles quand il y a une ou plusieurs responsabilités officielles concomitantes ou concurrentes."
+      },
+      {
+        "description": "Valeurs de l’ASFC",
+        "term": "Respect, intégrité, professionnalisme"
+      },
+      {
+        "description": "Valeurs du secteur public",
+        "term": "Respect de la démocratie, respect des personnes, intégrité, intendance et excellence"
+      }
+    ]
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Ressources d'apprentissage",
+    "description": " ",
+    "_filterButtons": {
+      "all": "Tous",
+      "document": "Documents",
+      "media": "Média",
+      "link": "Liens"
+    },
+    "_filterAria": {
+      "allAria": "Afficher toutes les ressources d’apprentissage",
+      "documentAria": "Afficher toutes les ressources de type document",
+      "mediaAria": "Afficher toutes les ressources de type média",
+      "linkAria": "Afficher toutes les ressources de type liens"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Cas de l’organisme de charité",
+        "filename": "Cas de l’organisme de charité",
+        "description": "Cas de l’organisme de charité",
+        "_link": "course/fr/assets/a8927177996c1751e56a928de008f616f0888c7e.docx"
+      }
+    ]
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_showPrompt": true,
+    "title": "Reprendre",
+    "body": "Souhaitez-vous reprendre où vous vous êtes arrêté ?",
+    "_buttons": {
+      "yes": "Oui",
+      "no": "Non"
+    }
+  }
+}

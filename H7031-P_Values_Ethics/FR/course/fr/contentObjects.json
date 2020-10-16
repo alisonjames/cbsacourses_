@@ -1,0 +1,398 @@
+[
+  {
+    "title": "Avant de commencer",
+    "displayTitle": "Avant de commencer",
+    "body": "",
+    "_classes": "mainMenu_BYB",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "5 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d66b",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 1: <br/>Documents d’orientation officiels sur les valeurs et l’éthique",
+    "displayTitle": "Module 1: <br/>Documents d’orientation officiels sur les valeurs et l’éthique",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort adjustprogressbar01",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "5 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d66c",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 2: <br/>Introduction aux valeurs et à l’éthique ",
+    "displayTitle": "Module 2: <br/>Introduction aux valeurs et à l’éthique ",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "25 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d66d",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 3:<br/> Sensibilisation au Code de conduite de l’ASFC",
+    "displayTitle": "Module 3:<br/> Sensibilisation au Code de conduite de l’ASFC",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d66e",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 4:<br/>Code de conduite de l’ASFC -<br/>Chapitre 1",
+    "displayTitle": "Module 4:<br/>Code de conduite de l’ASFC -<br/>Chapitre 1",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "20 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d66f",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 5:<br/> Code de conduite de l’ASFC -<br/> Chapitre 2",
+    "displayTitle": "Module 5:<br/> Code de conduite de l’ASFC -<br/> Chapitre 2",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "20 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d670",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 6:<br/> Code de conduite de l’ASFC -<br/> Chapitre 3",
+    "displayTitle": "Module 6:<br/> Code de conduite de l’ASFC -<br/> Chapitre 3",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d671",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 7:<br/> Prise de décisions et <br/>dialogue éthique",
+    "displayTitle": "Module 7:<br/> Prise de décisions et <br/>dialogue éthique",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d672",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 8:<br/> Les obstacles  à une conduite éthique",
+    "displayTitle": "Module 8:<br/> Les obstacles  à une conduite éthique",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d673",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Résumé et Conclusion ",
+    "displayTitle": "Résumé et Conclusion ",
+    "body": "",
+    "_classes": "DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "5 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea861ace154fe2cc449d674",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Asset Page",
+    "displayTitle": "Asset Page",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_isHidden": true,
+    "_isVisible": false,
+    "_id": "5ea861ace154fe2cc449d675",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": false,
+      "_level": "page"
+    }
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "title": "Before You Begin",
+    "displayTitle": "Before You Begin",
+    "body": "",
+    "_classes": "mainMenu_BYB",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "5 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d416",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 1: <br/>Official Values and Ethics Guiding Documents",
+    "displayTitle": "Module 1: <br/>Official Values and Ethics Guiding Documents",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "5 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d417",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 2: <br/>Introduction to Values and Ethics ",
+    "displayTitle": "Module 2: <br/>Introduction to Values and Ethics ",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "25 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d418",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 3:<br/> CBSA Code of Conduct Orientation",
+    "displayTitle": "Module 3:<br/> CBSA Code of Conduct Orientation",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d419",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 4:<br/> CBSA Code of Conduct - Chapter 1",
+    "displayTitle": "Module 4:<br/> CBSA Code of Conduct - Chapter 1",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "20 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d41a",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 5:<br/> CBSA Code of Conduct - Chapter 2",
+    "displayTitle": "Module 5:<br/> CBSA Code of Conduct - Chapter 2",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "20 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d41b",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 6:<br/> CBSA Code of Conduct - Chapter 3",
+    "displayTitle": "Module 6:<br/> CBSA Code of Conduct - Chapter 3",
+    "body": "",
+    "_classes": "DarkMenu DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d41c",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 7:<br/> Ethical Decision-Making and Ethical Dialogue",
+    "displayTitle": "Module 7:<br/> Ethical Decision-Making and Ethical Dialogue",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d41d",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Module 8:<br/> Obstacles to Ethical Conduct",
+    "displayTitle": "Module 8:<br/> Obstacles to Ethical Conduct",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d41e",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Summary and Conclusion",
+    "displayTitle": "Summary and Conclusion",
+    "body": "",
+    "_classes": "DarkMenuShort",
+    "pageBody": "",
+    "linkText": "Start",
+    "duration": "5 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ea86174e154fe2cc449d41f",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "component"
+    }
+  },
+  {
+    "title": "Asset Page",
+    "displayTitle": "Asset Page",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_id": "5ea86174e154fe2cc449d420",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": false,
+      "_level": "page"
+    }
+  }
+]

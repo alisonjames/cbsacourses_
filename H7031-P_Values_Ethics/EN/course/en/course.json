@@ -1,0 +1,297 @@
+{
+  "title": "Values, Ethics and Disclosure of Wrongdoing at the CBSA (H7031)",
+  "displayTitle": "Values, Ethics and Disclosure<br/>of Wrongdoing at the CBSA<br/>H7031-P",
+  "body": "",
+  "description": "",
+  "_latestTrackingId": 151,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Retry",
+      "ariaLabel": "Retry"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "sequential",
+  "_id": "course",
+  "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "skipNavigation": "Skip Navigation",
+        "menuLoaded": "Home page loaded",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationDrawer": "Open main menu",
+        "drawer": "Sidebar",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuIndicatorHeading": "Menu item heading "
+      }
+    },
+    "_components": {
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_narrative": {
+        "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
+      },
+      "_media": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
+      },
+      "_clickAndLearn": {
+        "ariaRegion": "This component is a click and learn type of component where we have few clickable cards, after clicking on one of those card they reveal text associated with them."
+      },
+      "_tidbits": {
+        "ariaRegion": "This component displays text with links. Use the links to access more information."
+      },
+      "_reveal": {
+        "ariaLabel": "Reveal toggle button."
+      },
+      "_flipcard": {
+        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+      },
+      "_tabs": {
+        "ariaRegion": "A tabbed content container. Content can be text, graphic or both."
+      },
+      "_expose": {
+        "ariaRegion": ""
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      }
+    },
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Module sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your progress in the current module, and select an item to navigate to it. ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of module sections.",
+        "optionalContent": "Optional Content"
+      },
+      "_glossary": {
+        "glossary": "Glossary"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      }
+    }
+  },
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_type": "course",
+  "_assessment": {
+    "_postTotalScoreToLms": true,
+    "_isPercentageBased": true,
+    "_scoreToPass": 80
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_aboutUs": {
+    "_drawerOrder": 0,
+    "title": "Contact Us",
+    "description": "",
+    "headline": "",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_aboutUsItems": [
+      {
+        "title": "Contact Us",
+        "description": "<p>To report a technical issue in this online training product, please contact the My Learning Team.&nbsp;<a href=\"mailto:H0PLTAg@cbsa-asfc.gc.ca\">H0PLTAg@cbsa-asfc.gc.ca</a></p>"
+      }
+    ],
+    "_socialLinks": []
+  },
+  "_glossary": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Glossary",
+    "description": "",
+    "clearSearch": "",
+    "searchItemsAlert": "",
+    "searchPlaceholder": "",
+    "searchWithInDescriptionLabel": "Search within the description text",
+    "itemNotFoundMessage": "No results found",
+    "_glossaryItems": [
+      {
+        "description": "Apparent conflict of interest",
+        "term": "Could be perceived by a reasonable observer to exist, whether or not it is the case."
+      },
+      {
+        "description": "CBSA Code",
+        "term": "CBSA Code of Conduct"
+      },
+      {
+        "description": "CBSA Values",
+        "term": "Respect, Integrity, Professionalism"
+      },
+      {
+        "description": "COI",
+        "term": "Conflict of Interest"
+      },
+      {
+        "description": "Conflict of duties",
+        "term": "Where there are one or more concurrent or competing official responsibilities."
+      },
+      {
+        "description": "EAP",
+        "term": "Employee Assistance Program"
+      },
+      {
+        "description": "ICMS",
+        "term": "Informal Conflict Management System "
+      },
+      {
+        "description": "Policy",
+        "term": "Policy on Conflict of Interest and Post-Employment (TBS)"
+      },
+      {
+        "description": "Potential conflict of interest",
+        "term": "Could be reasonably foreseen to exist in the future."
+      },
+      {
+        "description": "Previous Treasury Board Code",
+        "term": "Values and Ethics Code for the Public Service"
+      },
+      {
+        "description": "PSDPA",
+        "term": "Public Servants Disclosure Protection Act "
+      },
+      {
+        "description": "PSEA",
+        "term": "Public Service Employment Act"
+      },
+      {
+        "description": "Public Sector Values",
+        "term": "Respect for Democracy, Respect for People, Integrity, Stewardship, Excellence"
+      },
+      {
+        "description": "Real conflict of interest",
+        "term": "Exists in the present time."
+      },
+      {
+        "description": "SOID",
+        "term": "Senior Officer for Internal Disclosure"
+      },
+      {
+        "description": "TBS",
+        "term": "Treasury Board Secretariat "
+      },
+      {
+        "description": "VECPS",
+        "term": "Values and Ethics Code for the Public Sector"
+      }
+    ]
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Learning Resources",
+    "description": " ",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all Learning resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": [
+      {
+        "_type": "document",
+        "_forceDownload": false,
+        "title": "Charity Case",
+        "filename": "Charity Case",
+        "description": "Charity Case",
+        "_link": "course/en/assets/bb238cef47dc14874ea1bfe7e43f63c3a22aa851.docx"
+      }
+    ]
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_showPrompt": true,
+    "title": "Resume",
+    "body": "Would you like to resume where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  }
+}
