@@ -1,0 +1,182 @@
+[
+  {
+    "title": "Avant de commencer",
+    "displayTitle": "Avant de commencer",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ecf9635a1db972245be700b",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Module 1 : Définitions et concepts",
+    "displayTitle": "Module 1 : Définitions et concepts",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ecf9635a1db972245be700c",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Module 2 : Indicateurs, facteurs et impacts d’une menace interne ",
+    "displayTitle": "Module 2 : Indicateurs, facteurs et impacts d’une menace interne ",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ecf9635a1db972245be700d",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Module 3 : Signaler et atténuer les menaces internes à l’ASFC",
+    "displayTitle": "Module 3 : Signaler et atténuer les menaces internes à l’ASFC",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "Débuter",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5ecf9635a1db972245be700e",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "page"
+    }
+  },
+  {
+    "title": "Asset Page",
+    "displayTitle": "Asset Page",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": true,
+    "_isAvailable": false,
+    "_isHidden": true,
+    "_isVisible": false,
+    "_id": "5ecf9635a1db972245be700f",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_showPageCompletion": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": false,
+      "_level": "page"
+    }
+  }
+]
