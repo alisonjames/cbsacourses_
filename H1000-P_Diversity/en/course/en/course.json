@@ -89,35 +89,17 @@
       "_graphic": {
         "ariaRegion": ""
       },
-      "_mcq": {
-        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
-      },
-      "_gmcq": {
-        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
-      },
-      "_clickAndLearn": {
-        "ariaRegion": "This component is a click and learn type of component where we have few clickable cards, after clicking on one of those card they reveal text associated with them."
-      },
-      "_tidbits": {
-        "ariaRegion": "This component displays text with links. Use the links to access more information."
-      },
-      "_reveal": {
-        "ariaLabel": "Reveal toggle button."
-      },
-      "_flipcard": {
-        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
-      },
-      "_tabs": {
-        "ariaRegion": "A tabbed content container. Content can be text, graphic or both."
-      },
-      "_expose": {
-        "ariaRegion": ""
-      },
       "_matching": {
         "ariaRegion": "Matching. Select from lists and then submit."
       },
       "_textinput": {
         "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_mcq": {
+        "ariaRegion": "This is a multiple choice question. Once you have selected an option, select the submit button below"
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
@@ -126,6 +108,24 @@
       },
       "_accordion": {
         "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_clickAndLearn": {
+        "ariaRegion": "This component is a click and learn type of component where we have few clickable cards, after clicking on one of those card they reveal text associated with them."
+      },
+      "_flipcard": {
+        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+      },
+      "_reveal": {
+        "ariaLabel": "Reveal toggle button."
+      },
+      "_expose": {
+        "ariaRegion": ""
+      },
+      "_tabs": {
+        "ariaRegion": "A tabbed content container. Content can be text, graphic or both."
+      },
+      "_tidbits": {
+        "ariaRegion": "This component displays text with links. Use the links to access more information."
       }
     },
     "_extensions": {

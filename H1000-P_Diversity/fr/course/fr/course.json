@@ -89,35 +89,17 @@
       "_graphic": {
         "ariaRegion": ""
       },
-      "_mcq": {
-        "ariaRegion": "Ceci est une question à choix multiple. Sélectionnez une option, puis sélectionnez le bouton soumettre."
-      },
-      "_gmcq": {
-        "ariaRegion": "Ceci une question à choix multiple graphique. Une fois que vous avez sélectionné une option, sélectionnez le bouton soumettre ci-dessous."
-      },
-      "_clickAndLearn": {
-        "ariaRegion": "Ce composant est un type de composant Clique-et-apprend affichant quelques cartes sélectionnable. Après avoir sélectionné l'une de ces cartes, elles affichent le texte qui leur est associé."
-      },
-      "_tidbits": {
-        "ariaRegion": "Ce composant affiche du texte avec des liens. Utilisez les liens pour accéder à plus d'informations."
-      },
-      "_reveal": {
-        "ariaLabel": "Révéler le bouton bascule."
-      },
-      "_flipcard": {
-        "ariaRegion": "Ce composant est une carte composée contenant une image d'affichage. Sélectionnez l'image de la face avant à retourner sur la face arrière de cette carte pour afficher le texte associé."
-      },
-      "_tabs": {
-        "ariaRegion": "Un conteneur de contenu à onglets. Le contenu peut être du texte, graphique ou les deux."
-      },
-      "_expose": {
-        "ariaRegion": ""
-      },
       "_matching": {
         "ariaRegion": "Association. Sélectionnez parmi des listes puis soumettez."
       },
       "_textinput": {
         "ariaRegion": "Saisie de texte. Tapez votre réponse puis soumettez."
+      },
+      "_mcq": {
+        "ariaRegion": "Ceci est une question à choix multiple. Sélectionnez une option, puis sélectionnez le bouton soumettre."
+      },
+      "_gmcq": {
+        "ariaRegion": "Ceci une question à choix multiple graphique. Une fois que vous avez sélectionné une option, sélectionnez le bouton soumettre ci-dessous."
       },
       "_slider": {
         "ariaRegion": "Échelle. Répondez à la question en sélectionnant une valeur sur l'échelle, puis soumettez-la.",
@@ -126,6 +108,24 @@
       },
       "_accordion": {
         "ariaRegion": "Ce composant est un accordéon composé de panneaux de contenu réductibles contenant du texte. Sélectionnez les titres des éléments pour activer ou désactiver la visibilité de ces panneaux de contenu."
+      },
+      "_clickAndLearn": {
+        "ariaRegion": "Ce composant est un type de composant Clique-et-apprend affichant quelques cartes sélectionnable. Après avoir sélectionné l'une de ces cartes, elles affichent le texte qui leur est associé."
+      },
+      "_flipcard": {
+        "ariaRegion": "Ce composant est une carte composée contenant une image d'affichage. Sélectionnez l'image de la face avant à retourner sur la face arrière de cette carte pour afficher le texte associé."
+      },
+      "_reveal": {
+        "ariaLabel": "Révéler le bouton bascule."
+      },
+      "_expose": {
+        "ariaRegion": ""
+      },
+      "_tabs": {
+        "ariaRegion": "Un conteneur de contenu à onglets. Le contenu peut être du texte, graphique ou les deux."
+      },
+      "_tidbits": {
+        "ariaRegion": "Ce composant affiche du texte avec des liens. Utilisez les liens pour accéder à plus d'informations."
       }
     },
     "_extensions": {

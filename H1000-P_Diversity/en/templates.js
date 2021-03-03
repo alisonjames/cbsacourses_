@@ -994,19 +994,15 @@ this["Handlebars"]["templates"]["aboutUsSocialLinks"] = Handlebars.template({"1"
 },"useData":true});
 
 this["Handlebars"]["templates"]["contentObjects"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isAvailable : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
-},"2":function(container,depth0,helpers,partials,data) {
     var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function";
 
-  return "			<div class=\"contentObjects-item drawer-item\">\n				<button class=\"base contentObjects-item-open drawer-item-open\" data-href=\""
+  return "	<div class=\"contentObjects-item drawer-item\">\n		<button class=\"base contentObjects-item-open drawer-item-open\" data-href=\""
     + container.escapeExpression(((helper = (helper = helpers._id || (depth0 != null ? depth0._id : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_id","hash":{},"data":data}) : helper)))
-    + "\" tabindex=\"0\" role=\"button\">\n					<div class=\"drawer-item-title\">\n						<div class=\"drawer-item-title-inner h5\">"
+    + "\" tabindex=\"0\" role=\"button\">\n			<div class=\"drawer-item-title\">\n				<div class=\"drawer-item-title-inner h5\">"
     + ((stack1 = ((helper = (helper = helpers.title || (depth0 != null ? depth0.title : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"title","hash":{},"data":data}) : helper))) != null ? stack1 : "")
-    + "</div>\n					</div>\n					<div class=\"drawer-item-description\">\n						<div class=\"drawer-item-description-inner\">"
+    + "</div>\n			</div>\n			<div class=\"drawer-item-description\">\n				<div class=\"drawer-item-description-inner\">"
     + ((stack1 = ((helper = (helper = helpers.description || (depth0 != null ? depth0.description : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"description","hash":{},"data":data}) : helper))) != null ? stack1 : "")
-    + "</div>\n					</div>\n				</button>\n			</div>\n";
+    + "</div>\n			</div>\n		</button>\n	</div>\n";
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
     var stack1;
 

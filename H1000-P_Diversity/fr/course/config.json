@@ -4,8 +4,8 @@
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "_id": "5dcac526276ef705480b0c99",
-  "_courseId": "5dcac525276ef705480b0b77",
+  "_id": "5f9c2fb2a8b5825064402570",
+  "_courseId": "5f9c2fb2a8b582506440256f",
   "_drawer": {
     "_showEasing": "easeOutQuart",
     "_hideEasing": "easeInQuart",
@@ -58,30 +58,5 @@
       "_suppressErrors": false,
       "_commitOnVisibilityChangeHidden": true
     }
-  },
-  "build": {
-    "includes": [
-      "adapt-contrib-boxMenu",
-      "5cbef484a092360d306dca89",
-      "adapt-contrib-text",
-      "adapt-next-button",
-      "adapt-contrib-graphic",
-      "adapt-contrib-accordion",
-      "adapt-contrib-mcq",
-      "adapt-contrib-textInput",
-      "adapt-expose",
-      "adapt-contrib-narrative",
-      "adapt-contrib-matching",
-      "adapt-contrib-assessmentResults",
-      "adapt-contrib-assessment",
-      "adapt-contrib-trickle",
-      "adapt-contrib-pageLevelProgress",
-      "adapt-aboutUs",
-      "adapt-contrib-drawerPageNavigation",
-      "adapt-contrib-resources",
-      "adapt-contrib-bookmarking",
-      "adapt-contrib-tutor",
-      "adapt-contrib-spoor"
-    ]
   }
 }
