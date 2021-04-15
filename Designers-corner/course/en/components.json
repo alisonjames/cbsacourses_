@@ -1,0 +1,1909 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca71289",
+    "_parentId": "6078919b34c0102faca7125e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f032169a9c085b352cafd8ff89552c38f9357e7e.png",
+      "small": "course/en/assets/f032169a9c085b352cafd8ff89552c38f9357e7e.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca7128a",
+    "_parentId": "6078919b34c0102faca7125e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/04a6fbe2bca7b988593b1e21a2697028d00d2f6d.png",
+      "small": "course/en/assets/04a6fbe2bca7b988593b1e21a2697028d00d2f6d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca7128b",
+    "_parentId": "6078919b34c0102faca71269",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0a65f1f6f6d59239a526ce4ea7d611f510ac4190.png",
+      "small": "course/en/assets/0a65f1f6f6d59239a526ce4ea7d611f510ac4190.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca7128c",
+    "_parentId": "6078919b34c0102faca71269",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/84d2a8d92ccd9fe8b76e20f292a7d9a172b49160.png",
+      "small": "course/en/assets/84d2a8d92ccd9fe8b76e20f292a7d9a172b49160.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "next-button",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "View Quiz components",
+    "displayTitle": "View Quiz components",
+    "body": "",
+    "_id": "6078919b34c0102faca7128d",
+    "_parentId": "6078919b34c0102faca71260",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_hoverText": "",
+    "_requirePageCompletion": false,
+    "_skipMenus": true,
+    "_nextPage": "",
+    "_buttonClasses": "button continue-button"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca7128e",
+    "_parentId": "6078919b34c0102faca7126f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/cb2961e84df31fb02c579e7c3bfed1b05950907b.png",
+      "small": "course/en/assets/cb2961e84df31fb02c579e7c3bfed1b05950907b.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca7128f",
+    "_parentId": "6078919b34c0102faca7126f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a4d3db4445c4e13a9ee553279fcb94ed396df1c4.png",
+      "small": "course/en/assets/a4d3db4445c4e13a9ee553279fcb94ed396df1c4.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca71290",
+    "_parentId": "6078919b34c0102faca71274",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6acb533e5f044c9d064ce34205a3fd42798fd4a8.png",
+      "small": "course/en/assets/6acb533e5f044c9d064ce34205a3fd42798fd4a8.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca71291",
+    "_parentId": "6078919b34c0102faca71274",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9192b513bd7cf0081b0ba56fca593a5c7fb95ed7.png",
+      "small": "course/en/assets/9192b513bd7cf0081b0ba56fca593a5c7fb95ed7.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "next-button",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "View Conversion Examples",
+    "displayTitle": "View Conversion Examples",
+    "body": "",
+    "_id": "6078919b34c0102faca71292",
+    "_parentId": "6078919b34c0102faca71267",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "_hoverText": "",
+    "_requirePageCompletion": false,
+    "_skipMenus": true,
+    "_nextPage": "",
+    "_buttonClasses": "button continue-button"
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca71293",
+    "_parentId": "6078919b34c0102faca71279",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5d5f3b88cd086f026d4a58c0788009ceb627bff5.png",
+      "small": "course/en/assets/5d5f3b88cd086f026d4a58c0788009ceb627bff5.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca71294",
+    "_parentId": "6078919b34c0102faca71279",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/216ba34e60b13a6ec5067ae92e0236066ddbfca4.jpg",
+      "small": "course/en/assets/216ba34e60b13a6ec5067ae92e0236066ddbfca4.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Accordion component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6078919b34c0102faca71295",
+    "_parentId": "6078919b34c0102faca71268",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select the buttons to reveal content.",
+    "_items": [
+      {
+        "title": "Accordion item #1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur. Mauris pretium quam quis sem hendrerit vestibulum. In lorem neque, gravida sit amet scelerisque eu, lacinia quis nisi. Nulla facilisi. Quisque eu justo vehicula, venenatis elit non, eleifend sem. Sed sed mattis quam. Suspendisse gravida ornare lacus, et vestibulum leo ullamcorper vitae. Pellentesque felis ante, molestie sit amet orci a, maximus aliquet mi. Phasellus et accumsan nisl, id varius tellus. Morbi mollis maximus tellus, vitae ullamcorper justo egestas ut. Fusce imperdiet venenatis elementum. Duis velit massa, cursus at sollicitudin in, malesuada in quam. Sed tempor dui vel velit varius tempus.</p>",
+        "_graphic": {
+          "alt": "planets",
+          "src": "course/en/assets/b027cd6d83f8097c048e83a825c3c0b8d4d7defc.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accordion item #2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur. Mauris pretium quam quis sem hendrerit vestibulum. In lorem neque, gravida sit amet scelerisque eu, lacinia quis nisi. Nulla facilisi. Quisque eu justo vehicula, venenatis elit non, eleifend sem. Sed sed mattis quam. Suspendisse gravida ornare lacus, et vestibulum leo ullamcorper vitae. Pellentesque felis ante, molestie sit amet orci a, maximus aliquet mi. Phasellus et accumsan nisl, id varius tellus. Morbi mollis maximus tellus, vitae ullamcorper justo egestas ut. Fusce imperdiet venenatis elementum. Duis velit massa, cursus at sollicitudin in, malesuada in quam. Sed tempor dui vel velit varius tempus.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accordion item #3",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur. Mauris pretium quam quis sem hendrerit vestibulum. In lorem neque, gravida sit amet scelerisque eu, lacinia quis nisi. Nulla facilisi. Quisque eu justo vehicula, venenatis elit non, eleifend sem. Sed sed mattis quam. Suspendisse gravida ornare lacus, et vestibulum leo ullamcorper vitae. Pellentesque felis ante, molestie sit amet orci a, maximus aliquet mi. Phasellus et accumsan nisl, id varius tellus. Morbi mollis maximus tellus, vitae ullamcorper justo egestas ut. Fusce imperdiet venenatis elementum. Duis velit massa, cursus at sollicitudin in, malesuada in quam. Sed tempor dui vel velit varius tempus.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_scrollToItem": true,
+    "_scrollOffset": "100"
+  },
+  {
+    "_component": "expose",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Expose component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6078919b34c0102faca71296",
+    "_parentId": "6078919b34c0102faca7126e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select a block to reveal its hidden content",
+    "_columns": 3,
+    "_animationType": "fade",
+    "_items": [
+      {
+        "front": "Item 1",
+        "back": {
+          "title": "Item 1",
+          "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis.</p>",
+          "_graphic": {
+            "alt": "planets",
+            "src": "course/en/assets/b027cd6d83f8097c048e83a825c3c0b8d4d7defc.png"
+          }
+        }
+      },
+      {
+        "front": "Item 2",
+        "back": {
+          "title": "Item 2",
+          "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      },
+      {
+        "front": "Item 3",
+        "back": {
+          "title": "Item 3",
+          "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "popup-on-right",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Hotgraphic component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6078919b34c0102faca71297",
+    "_parentId": "6078919b34c0102faca7127d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select each pin to learn more.",
+    "_graphic": {
+      "src": "course/en/assets/a7b195a68f13b88b3a1a053dde4b7de9f72e289b.png",
+      "alt": "Planet 1",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": false,
+    "_canCycleThroughPagination": true,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "Ring",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim.cvc</p>",
+        "strapline": "Ring",
+        "_graphic": {
+          "src": "course/en/assets/f5c5ded5962e2a7d139ea12108d8b91872915aa0.png",
+          "alt": "",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 10,
+        "_top": 10
+      },
+      {
+        "title": "Rock",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim.cvc</p>",
+        "strapline": "Rock",
+        "_graphic": {
+          "src": "course/en/assets/9357f4e7257ce33db7e90fd47df5de19f2fb7728.jpg",
+          "alt": "rock",
+          "attribution": "",
+          "title": "",
+          "_classes": ""
+        },
+        "_classes": "",
+        "_left": 35,
+        "_top": 21
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Narrative component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6078919b34c0102faca71298",
+    "_parentId": "6078919b34c0102faca71282",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select the arrows to navigate through the items.",
+    "mobileInstruction": "Selct the arrows to navigate through the items.",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "Item 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur. Mauris pretium quam quis sem hendrerit vestibulum. In lorem neque, gravida sit amet scelerisque eu, lacinia quis nisi. Nulla facilisi. Quisque eu justo vehicula, venenatis elit non, eleifend sem. Sed sed mattis quam. Suspendisse gravida ornare lacus, et vestibulum leo ullamcorper vitae.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a7b195a68f13b88b3a1a053dde4b7de9f72e289b.png",
+          "alt": "Planet 1",
+          "attribution": ""
+        },
+        "strapline": "Item 1"
+      },
+      {
+        "title": "Item 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur. Mauris pretium quam quis sem hendrerit vestibulum. In lorem neque, gravida sit amet scelerisque eu, lacinia quis nisi. Nulla facilisi. Quisque eu justo vehicula, venenatis elit non, eleifend sem. Sed sed mattis quam. Suspendisse gravida ornare lacus, et vestibulum leo ullamcorper vitae.</p>",
+        "_graphic": {
+          "src": "course/en/assets/85fe3d36b9e343f6ca01c83a36956b3d663963f9.png",
+          "alt": "Planet 5",
+          "attribution": ""
+        },
+        "strapline": "Item 2"
+      }
+    ]
+  },
+  {
+    "_component": "tabs",
+    "_classes": "title-center",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Vertical tabs",
+    "displayTitle": "Vertical tabs",
+    "body": "",
+    "_id": "6078919b34c0102faca71299",
+    "_parentId": "6078919b34c0102faca71287",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select each tab to learn more.",
+    "_tabLayout": "left",
+    "_items": [
+      {
+        "tabTitle": "Item 1",
+        "title": "Item 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/b027cd6d83f8097c048e83a825c3c0b8d4d7defc.png"
+        }
+      },
+      {
+        "tabTitle": "Item 2",
+        "title": "Item 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Item 3",
+        "title": "Item 3",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Item 4",
+        "title": "Item 4",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "tabs",
+    "_classes": "title-center",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Horizontal tabs",
+    "displayTitle": "Horizontal tabs",
+    "body": "",
+    "_id": "6078919b34c0102faca7129a",
+    "_parentId": "6078919b34c0102faca71287",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select each tab to learn more.",
+    "_tabLayout": "top",
+    "_items": [
+      {
+        "tabTitle": "Item 1",
+        "title": "Item 1",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/b027cd6d83f8097c048e83a825c3c0b8d4d7defc.png"
+        }
+      },
+      {
+        "tabTitle": "Item 2",
+        "title": "Item 2",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Item 3",
+        "title": "Item 3",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "tabTitle": "Item 4",
+        "title": "Item 4",
+        "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis. Cras aliquam odio vitae dolor accumsan scelerisque et sit amet enim. Integer sed orci id nunc dapibus consectetur.</p>",
+        "_classes": "",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "title-center",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Video",
+    "displayTitle": "Video",
+    "body": "<div class=\"video\"><video controls=\"\" controlslist=\"nodownload\" height=\"486\" poster=\"course/en/assets/6fde6cd673155e3914bfac2c9adeedbcd5892d16.png\" preload=\"none\" width=\"860\"><source src=\"course/en/assets/1ca8721ee7a9923607724ea4f5e27e5f463ba761.mp4\" type=\"video/mp4\" /></video></div><!-- Transcript --><p><button class=\"CustomTranscriptDropDown\" id=\"CustomTranscriptDropDown2\">Transcript</button></p><div class=\"TranscriptSection2\" id=\"TranscriptSection2\"><p class=\"mt-0\">Example of transcript, hey there hope you have a lovely day! ;)</p></div><script>\n    $(document).ready(function () {\n        $(\"#TranscriptSection2\").hide();\n        $(\"#CustomTranscriptDropDown2\").click(function () {\n            $(\"#TranscriptSection2\").slideToggle(\"slow\");\n        });\n    });\n</script>",
+    "_id": "6078919b34c0102faca7129b",
+    "_parentId": "6078919b34c0102faca71288",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "title-center",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Audio",
+    "displayTitle": "Audio",
+    "body": "<p><audio controls=\"\" controlslist=\"nodownload\"><source src=\"course/en/assets/4606a064d2d9fd4e6e5bd830c36aca31a7bd5d49.mp3\" type=\"audio/mpeg\" /> Your browser does not support the audio element.</audio></p><!-- Transcript --><p><button class=\"CustomTranscriptDropDown_audio02\" id=\"CustomTranscriptDropDown\">Transcript</button></p><div class=\"TranscriptSection_audio02\" id=\"TranscriptSection\"><p>This is an example of an audio component.</p></div><script>        $(document).ready(function() {            $(\"#TranscriptSection\").hide();            $(\"#CustomTranscriptDropDown\").click(function() {                $(\"#TranscriptSection\").slideToggle(\"slow\");            });        });    </script>",
+    "_id": "6078919b34c0102faca7129c",
+    "_parentId": "6078919b34c0102faca71288",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca7129f",
+    "_parentId": "6078919b34c0102faca71283",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6fde6cd673155e3914bfac2c9adeedbcd5892d16.png",
+      "small": "course/en/assets/6fde6cd673155e3914bfac2c9adeedbcd5892d16.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca712a0",
+    "_parentId": "6078919b34c0102faca71286",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c92816b725545e4dd16026aa71a890ffff6e820e.jpg",
+      "small": "course/en/assets/c92816b725545e4dd16026aa71a890ffff6e820e.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "6078919b34c0102faca712a1",
+    "_parentId": "6078919b34c0102faca71286",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9c42d2a65786390cc73ccd752e3f9503cf37fae7.jpg",
+      "small": "course/en/assets/9c42d2a65786390cc73ccd752e3f9503cf37fae7.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "MCQ component",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><strong>What is the correct answer ?</strong></p>",
+    "_id": "6078919b34c0102faca712a2",
+    "_parentId": "6078919b34c0102faca7125f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select the correct answer, then select Submit.",
+    "_items": [
+      {
+        "text": "Answer 1",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer 2",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer 3",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Answer 4",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Here is the feedback for the <strong>correct</strong> answer.</p>",
+      "_incorrect": {
+        "final": "<p>Here is the feedback for the <strong>incorrect </strong>answer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "gmcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "GMCQ component",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><strong>What is the correct answer ?</strong></p>",
+    "_id": "6078919b34c0102faca712a3",
+    "_parentId": "6078919b34c0102faca7126a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select the correct answer, then select Submit.",
+    "_items": [
+      {
+        "_graphic": {
+          "large": "course/en/assets/dde06bdff820ae425ee7e27436381292988099af.png",
+          "small": "course/en/assets/dde06bdff820ae425ee7e27436381292988099af.png",
+          "alt": "Planet 1",
+          "attribution": ""
+        },
+        "text": "Answer 1",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/6b9c6c90965828e5fe913a583a40164bdff05670.png",
+          "small": "course/en/assets/6b9c6c90965828e5fe913a583a40164bdff05670.png",
+          "alt": "Planet 2",
+          "attribution": ""
+        },
+        "text": "Answer 2",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/e4d6139605ccc11ca494f500346e135f8b414faf.png",
+          "small": "course/en/assets/e4d6139605ccc11ca494f500346e135f8b414faf.png",
+          "alt": "Planet 3",
+          "attribution": ""
+        },
+        "text": "Answer 3",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "_graphic": {
+          "large": "course/en/assets/fbeae7231c98162454713bccf5f67596de7728f3.png",
+          "small": "course/en/assets/fbeae7231c98162454713bccf5f67596de7728f3.png",
+          "alt": "Planet 4",
+          "attribution": ""
+        },
+        "text": "Answer 4",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_columns": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p>This is the feedback for a correct answer.</p>",
+      "_incorrect": {
+        "final": "<p>This is the feedback for an incorrect answer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Matching question component",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: center;\"><strong>What is the correct answer ?</strong></p>",
+    "_id": "6078919b34c0102faca712a4",
+    "_parentId": "6078919b34c0102faca71270",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Select the correct answer for each dropdown, then select Submit.",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Example of question 1",
+        "_options": [
+          {
+            "text": "Option 1",
+            "_isCorrect": true
+          },
+          {
+            "text": "Option 2",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 3",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 4",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 5",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Example of question 2",
+        "_options": [
+          {
+            "text": "Option 1",
+            "_isCorrect": true
+          },
+          {
+            "text": "Option 2",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 3",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 4",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Example of question 3",
+        "_options": [
+          {
+            "text": "Option 1",
+            "_isCorrect": true
+          },
+          {
+            "text": "Option 2",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 3",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Example of question 4",
+        "_options": [
+          {
+            "text": "Option 1",
+            "_isCorrect": true
+          },
+          {
+            "text": "Option 2",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 3",
+            "_isCorrect": false
+          },
+          {
+            "text": "Option 4",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Here is the feedback for the&nbsp;<strong>correct</strong>&nbsp;answer.</p>",
+      "_incorrect": {
+        "final": "<p>This is the feedback for an <strong>incorrect </strong>answer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Text input",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6078919b34c0102faca712a5",
+    "_parentId": "6078919b34c0102faca71275",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "Type the correct answer, then select Submit.",
+    "_items": [
+      {
+        "_answers": [
+          "planet",
+          "Planet"
+        ],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>This is the feedback for a <strong>correct </strong>answer.</p>",
+      "_incorrect": {
+        "final": "<p>This is the feedback for an <strong>incorrect </strong>answer.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Info",
+    "displayTitle": "",
+    "body": "<div class=\"retro-box retro-box-info\"><div class=\"retro-box-icon\">&nbsp;</div><p>There are other components available on the official <a href=\"https://www.adaptlearning.org/index.php/plugin-browser/\" target=\"_blank\">Adapt plugin registry</a>, but these are the ones that follow the WCAG AA Accessibility Guidelines.</p></div>",
+    "_id": "6078919b34c0102faca712a6",
+    "_parentId": "6078919b34c0102faca71261",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Info",
+    "displayTitle": "",
+    "body": "<div class=\"retro-box retro-box-info\"><div class=\"retro-box-icon\">&nbsp;</div><p>There are other components available on the official <a href=\"https://www.adaptlearning.org/index.php/plugin-browser/\" target=\"_blank\">Adapt plugin registry</a>, but these are the ones that follow the WCAG AA Accessibility Guidelines.</p></div>",
+    "_id": "6078919b34c0102faca712a7",
+    "_parentId": "6078919b34c0102faca7127f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "reveal",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Reveal Component",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6078919b34c0102faca712c6",
+    "_parentId": "6078919b34c0102faca71285",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "_triggered": {
+      "_isEnabled": false,
+      "showButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      },
+      "hideButton": {
+        "_top": "auto",
+        "_right": "auto",
+        "_bottom": "auto",
+        "_left": "auto",
+        "buttonText": ""
+      }
+    },
+    "instruction": "",
+    "_direction": "left",
+    "control": {
+      "hideText": "Hide",
+      "showText": "Show"
+    },
+    "first": {
+      "title": "Planet #1",
+      "src": "course/en/assets/85fe3d36b9e343f6ca01c83a36956b3d663963f9.png",
+      "alt": "",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis.</p>",
+      "moreText": "More"
+    },
+    "second": {
+      "title": "",
+      "src": "course/en/assets/a7b195a68f13b88b3a1a053dde4b7de9f72e289b.png",
+      "alt": "Planet #2",
+      "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a arcu sit amet tortor aliquam blandit at id augue. Maecenas ultrices cursus tellus id venenatis.</p>",
+      "moreText": "More"
+    }
+  }
+]
